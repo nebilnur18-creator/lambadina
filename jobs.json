@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-25T12:45:47.041099Z",
+  "updated": "2026-09-25T12:46:03.571126Z",
   "jobs": [
+    {
+      "id": "7114025eb06def52acc0ee252e5fa950eaf90593cec536059845571907a2d194",
+      "company": "Habesha Steel Mills PLC",
+      "about": "Habesha Steel Mills PLC is a manufacturing company that produces steel and related construction materials in Ethiopia.",
+      "positions": [
+        "Junior Sales Officer",
+        "Senior Sales and Marketing Officer",
+        "Sales Officer"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "October 22nd, 2026",
+      "link": "",
+      "contact": "habeshasteelhr@gmail.com",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Private Sector | Fresh Graduate\n\n🏢 Company: Habesha Steel Mills PLC\n🏬 About: Habesha Steel Mills PLC is a manufacturing company that produces steel and related construction materials in Ethiopia.\n\n💼 Positions:\n1. Junior Sales Officer\n   📍 Location: Addis Ababa (Head Office), Bishoftu/Dukem, Hawassa\n   🎓 Requirements:\n   - Bachelor’s Degree or Diploma in Marketing, Sales, Business Administration, Management, Economics, or related fields\n   - 0 to 2 years of professional experience in sales administration, customer service, or commercial operations (fresh graduates welcome)\n   - Strong communication skills in English and Amharic\n   - Basic computer skills (Microsoft Word, Excel, Outlook)\n   - Negotiation and leadership abilities\n\n2. Senior Sales and Marketing Officer\n   📍 Location: Addis Ababa (Head Office), Dukem, Hawassa\n   🎓 Requirements:\n   - Bachelor’s Degree in Marketing, Sales, Business Administration, Management, Economics, or related fields (Master’s degree or professional certification advantageous)\n   - 7 to 10 years of progressive experience in strategic sales, brand management, or key account leadership, with at least 3 years in a senior supervisory role within manufacturing, steel, construction materials, or heavy industry\n   - High‑level negotiation and commercial acumen\n   - Advanced proficiency in Microsoft Office (Excel analytics) and CRM platforms\n   - Excellent command of English and Amharic; additional local languages a plus\n\n3. Sales Officer\n   📍 Location: Addis Ababa (Head Office), Bishoftu/Dukem, Hawassa\n   🎓 Requirements:\n   - Bachelor’s Degree in Marketing, Sales, Business Administration, Management, Economics, or related fields\n   - 3 to 7 years of professional experience in active sales, field marketing, or commercial distribution, preferably in manufacturing, construction materials, or heavy industry\n   - Strong negotiation, interpersonal, and customer‑handling skills\n   - Proficiency in Microsoft Office (Word, Excel) and basic sales tracking tools\n   - Excellent command of English and Amharic\n\n📊 Vacancy Count: 12\n📅 Deadline: October 22nd, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: habeshasteelhr@gmail.com",
+      "posted": "2026-09-25T12:46:01.064533Z"
+    },
     {
       "id": "643fad265e16c5efca7d77f47349049cfd2bcc27380ed2c3c4ea4807cdb3d976",
       "company": "ZamZam Bank",
@@ -5527,23 +5547,6 @@
       "contact": "",
       "text": "🏷️ Logistics & Supply Chain | Executive\n\n🏢 Company: Hareg Import and Export PLC  \n🏬 About: A private company engaged in import and export trading in Ethiopia.  \n\n💼 Positions:  \n1. Supply Chain Property Admin. Manager  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - B.Sc. in Mechanical/Electrical Engineering or BA in Supply Chain Management  \n   - Minimum 9 years progressive experience  \n   - Proven leadership at executive level  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Sep 23 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:55:27.642438Z"
-    },
-    {
-      "id": "5147edc06838697616b1a85d7694930c4103f7e6a5cb59b2c5277401407a1f6d",
-      "company": "Hareg Import and Export PLC",
-      "about": "A private company engaged in import and export activities across various sectors in Ethiopia.",
-      "positions": [
-        "senior sales engineer"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Logistics & Supply Chain"
-      ],
-      "deadline": "Sep 22, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Hareg Import and Export PLC  \n🏬 About: A private company engaged in import and export activities across various sectors in Ethiopia.  \n\n💼 Positions:  \n1. Senior Sales Engineer  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BSc in electromechanical/electrical/mechanical engineering  \n   - Minimum 5 years relevant experience  \n   - Proficiency in pump design, solarization, installation & commissioning  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Sep 22, 2026  \n📝 Description: Handles sales engineering, providing pump and solar solutions, installations and client training.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:55:07.010831Z"
     }
   ]
 }
