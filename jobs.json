@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-25T12:40:23.010579Z",
+  "updated": "2026-09-25T12:40:42.448194Z",
   "jobs": [
+    {
+      "id": "776cef0482241140a9c13a92626ba28e3be0f7f67714479d11f5782ba420307f",
+      "company": "Ahununu Trading",
+      "about": "A private trading company operating in Ethiopia.",
+      "positions": [
+        "Packer"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "Nehasé 30 – Pagume 04/2018",
+      "link": "",
+      "contact": "0970005656",
+      "application_method": "Call or send your CV to this number",
+      "image": null,
+      "text": "🏷️ Private Sector\n\n🏢 Company: Ahununu Trading\n🏬 About: A private trading company operating in Ethiopia.\n\n💼 Positions:\n1. Packer\n   📍 Location: Addis Ababa (Estimated)\n   🎓 Requirements:\n   - Minimum education: 10th grade or higher\n   - Ability to read and write\n   - 2-3 years of work experience (preferably in packaging, courier, or similar)\n   - Ability to handle related tasks and responsibilities\n   - Must be able to submit documents (education certificate, residence ID)\n\n📊 Vacancy Count: 1\n📅 Deadline: Nehasé 30 – Pagume 04/2018\n\n📝 Application Method: Call or send your CV to this number\n📞 Contact: 0970005656",
+      "posted": "2026-09-25T12:40:38.090877Z"
+    },
     {
       "id": "42b947ea735689e02987fe9de0b6096fac0abf98a250598eaede06a4e5cd2e81",
       "company": "Yemayab Veterinary Drugs (Yilak Alemu Import)",
@@ -5477,23 +5495,6 @@
       "contact": "",
       "text": "🏷️ Private Sector\n\n🏢 Company: HEINEKEN ETHIOPIA  \n🏬 About: Heineken Ethiopia is a leading brewery in Ethiopia, producing and distributing Heineken beer and other beverages.  \n\n💼 Positions:  \n1. Wastewater Treatment Plant Operator  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - ≥4 years experience in utilities & WWTP operation & maintenance  \n   - Strong knowledge of maintenance and operations  \n   - Bachelor’s degree in Chemical Engineering or equivalent  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Sep 15 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:37:15.126705Z"
-    },
-    {
-      "id": "0d92451f57d8b524da190a3984c482ca59bc8fcc56d7a967d0fd52cf973d326d",
-      "company": "At-Con Engineering & Architecture Consultancy PLC",
-      "about": "A private engineering consultancy offering design, architecture, and construction supervision services in Ethiopia.",
-      "positions": [
-        "senior highway engineer (contract)"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Technology & IT"
-      ],
-      "deadline": "Oct 10, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: At-Con Engineering & Architecture Consultancy PLC  \n🏬 About: A private engineering consultancy offering design, architecture, and construction supervision services in Ethiopia.  \n\n💼 Positions:  \n1. Senior Highway Engineer (Contract)  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Minimum 6 years highway design and construction supervision experience  \n   - Bachelor’s or Master’s degree in Civil/Highway Engineering  \n   - Proficiency in Civil 3D, AutoCAD, OpenRoads (or similar)  \n\n📊 Vacancy Count: 1  \n💼 Employment Type: Contract  \n📅 Deadline: Oct 10, 2026  \n📝 Description: Leads highway design and supervision on contract projects.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:36:56.014566Z"
     }
   ]
 }
