@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-25T13:11:28.542888Z",
+  "updated": "2026-09-25T13:11:45.946880Z",
   "jobs": [
+    {
+      "id": "a82674b518649cb008df3145773b8d32e5e3c90b8de6b5c1ddbd69067434b843",
+      "company": "Sparkle Pre‑School plc",
+      "about": "A private early childhood education provider operating preschools in Ethiopia.",
+      "positions": [
+        "Self‑contained Teacher (Main Teacher)"
+      ],
+      "category": [
+        "Fresh Graduate",
+        "Education"
+      ],
+      "deadline": "October 25th, 2026",
+      "link": "",
+      "contact": "bezaabe61@gmail.com",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Fresh Graduate | Education\n\n🏢 Company: Sparkle Pre‑School plc\n🏬 About: A private early childhood education provider operating preschools in Ethiopia.\n\n💼 Positions:\n1. Self‑contained Teacher (Main Teacher)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Minimum Diploma in any field from a recognized college or university\n   - 0+ years of experience\n   - Prior knowledge of the Cambridge system (preferable)\n   - Strong communication, attention to detail, and problem‑solving skills\n   - Good command of English (spoken and written) – minimum B2 level\n   - Good computer and AI usage skills\n   - Knowledge of other foreign languages (Arabic) is a plus\n\n📝 Description: Seeking a self‑contained teacher to deliver the Cambridge curriculum at Sparkle Pre‑School.\n\n📅 Deadline: October 25th, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: bezaabe61@gmail.com",
+      "posted": "2026-09-25T13:11:42.740999Z"
+    },
     {
       "id": "0b8ad2f01be4f4323744f2210044c4a5256f934c83aeaa0b402b1f8d9530adb4",
       "company": "Lidiya Memorial Construction PLC",
@@ -5599,22 +5618,6 @@
       "contact": "",
       "text": "🏷️ Private Sector\n\n🏢 Company: Ethiopian Skylight Hotel  \n🏬 About: A hotel operating in Ethiopia’s hospitality sector, offering accommodation and guest services.  \n\n💼 Positions:  \n1. IT Officer  \n   🎓 Requirements:  \n   - BSc in Computer Science/IT or related field with ≥1 year experience, or Diploma with ≥3 years experience.  \n   - Knowledge of computer maintenance, networking, and software engineering.  \n   - Ability to manage hotel IT systems.  \n\n📅 Deadline: September 17, 2026  \n📝 Application Method: Apply via source job page  \n🔗 Link: https://effoysira.com/ethiopian-skylight-job-vacancy/",
       "posted": "2026-09-11T16:41:35.206123Z"
-    },
-    {
-      "id": "03a15e4c80f466cf65faf109d34e755fb961ce3010c019dd9b8faf42ad0ee150",
-      "company": "Dream Liyana Healthcare PLC",
-      "about": "A private healthcare company providing orthopedic, trauma and spine services in Ethiopia.",
-      "positions": [
-        "hospital receptionist"
-      ],
-      "category": [
-        "Healthcare"
-      ],
-      "deadline": "September 17, 2026",
-      "link": "https://effoysira.com/dream-liyana-healthcare-plc-vacancy/",
-      "contact": "",
-      "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Dream Liyana Healthcare PLC  \n🏬 About: A private healthcare company providing orthopedic, trauma and spine services in Ethiopia.  \n\n💼 Positions:  \n1. Hospital Receptionist  \n   🎓 Requirements:  \n   - Diploma or Level IV in IT, Accounting, office management or related field  \n   - 0‑1+ years experience, preferably in hospital or clinic reception  \n   - Good communication and computer skills  \n\n📅 Deadline: September 17, 2026  \n📝 Application Method: Apply via source job page  \n🔗 Link: https://effoysira.com/dream-liyana-healthcare-plc-vacancy/",
-      "posted": "2026-09-11T16:38:03.332640Z"
     }
   ]
 }
