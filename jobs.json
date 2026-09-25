@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-25T13:00:24.372773Z",
+  "updated": "2026-09-25T13:00:43.419695Z",
   "jobs": [
+    {
+      "id": "58423fc4815494b56d3c5e09dfb4e037b09dc0eaf5e0f6f49407f0d2367b1ab5",
+      "company": "Victoria Guest House Apartment",
+      "about": "Victoria Guest House Apartment is a hospitality establishment offering accommodation and guest services in Addis Ababa.",
+      "positions": [
+        "Hotel Receptionist"
+      ],
+      "category": [
+        "Healthcare",
+        "Education"
+      ],
+      "deadline": "October 23rd, 2026",
+      "link": "",
+      "contact": "info@victoriaguesthouseaddis.net",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Private Sector\n\n🏢 Company: Victoria Guest House Apartment\n🏬 About: Victoria Guest House Apartment is a hospitality establishment offering accommodation and guest services in Addis Ababa.\n\n💼 Positions:\n1. Hotel Receptionist\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Diploma or Certificate in Reception, Hospitality Management, Tourism Management, Hotel Management, or a related field from a recognized college or university.\n   - 1–3 years of relevant work experience as a receptionist or front office staff.\n   - Previous experience in the hospitality industry is highly advantageous.\n   - Knowledge and experience with C-NET 6 Hotel Management Software (preferred).\n   - Familiarity with Booking.com, Expedia, and Airbnb extranets (added advantage).\n   - Excellent written and spoken English communication skills.\n   - Strong customer service and interpersonal skills.\n   - Good telephone etiquette and communication abilities.\n   - Excellent organizational and multitasking skills.\n   - Professional appearance and attitude.\n   - Ability to work effectively under pressure and in a fast‑paced environment.\n   - Energetic, positive, and team‑oriented personality.\n   - Skills in Customer Relationship Management (CRM), customer service orientation, customer development, and reception duties.\n\n📝 Description: Victoria Guest House Apartment is committed to providing exceptional hospitality and guest experiences.\n\n📅 Deadline: October 23rd, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: info@victoriaguesthouseaddis.net",
+      "posted": "2026-09-25T13:00:40.133517Z"
+    },
     {
       "id": "81a989d8ffbb8ceff9f352f3531dd9c0b4d4639276cb1990ed7578dd9ea4f137",
       "company": "Abbahawa Trading PLC",
@@ -5571,23 +5590,6 @@
       "contact": "",
       "text": "🏷️ Private Sector\n\n🏢 Company: Hahu Jobs\n🏬 About: Hahu Jobs is an Ethiopian online platform that aggregates job listings across various sectors.\n\n💼 Positions:\n…and 0 more positions — full list on our website.\n\n📝 Application Method: Apply via source job page\n🔗 Link: https://www.hahu.jobs/",
       "posted": "2026-09-10T10:09:35.209824Z"
-    },
-    {
-      "id": "d9395459337fb3ac906a478ee199a7aa26260799160aaf35bcbe259bbf863d4a",
-      "company": "Kelem International School",
-      "about": "Kelem International School, formerly the Swedish Community School, delivers Swedish‑based education in English to preschool‑through‑lower secondary students in Addis Ababa.",
-      "positions": [
-        "junior general service & procurement officer"
-      ],
-      "category": [
-        "Logistics & Supply Chain",
-        "Education"
-      ],
-      "deadline": "Sept 14 2026",
-      "link": "https://ethiojobshub.com/kelem-international-school-vacancy/",
-      "contact": "",
-      "text": "🏷️ Education\n\n🏢 Company: Kelem International School  \n🏬 About: Kelem International School, formerly the Swedish Community School, delivers Swedish‑based education in English to preschool‑through‑lower secondary students in Addis Ababa.  \n\n💼 Positions:  \n1. Junior General Service & Procurement Officer  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BA degree in Management, Procurement & Supply Chain or Business Administration  \n   - Minimum 1 year relevant experience in procurement or logistics  \n   - Basic knowledge of procurement procedures and documentation  \n\n📅 Deadline: Sept 14 2026  \n📝 Application Method: Apply via source job page  \n🔗 Link: https://ethiojobshub.com/kelem-international-school-vacancy/",
-      "posted": "2026-09-10T10:09:08.263864Z"
     }
   ]
 }
