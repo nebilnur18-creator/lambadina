@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-25T12:42:13.157260Z",
+  "updated": "2026-09-25T12:42:34.085497Z",
   "jobs": [
+    {
+      "id": "51b7db2700d70df56763fafe042d87e32c0a9f3a96545f2dd26ce66845740706",
+      "company": "Habesha Steel Mills PLC",
+      "about": "Habesha Steel Mills PLC is a steel manufacturing company producing rebar and related construction materials in Ethiopia.",
+      "positions": [
+        "Junior Sales Officer",
+        "Sales Officer",
+        "Senior Sales and Marketing Officer"
+      ],
+      "category": [
+        "Fresh Graduate",
+        "Construction & Engineering"
+      ],
+      "deadline": "October 22, 2026",
+      "link": "",
+      "contact": "habeshasteelhr@gmail.com",
+      "application_method": "Send your CV/application via email",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/51b7db2700d70df56763fafe042d87e32c0a9f3a96545f2dd26ce66845740706.jpg",
+      "text": "🏷️ Private Sector | Fresh Graduate\n\n🏢 Company: Habesha Steel Mills PLC\n🏬 About: Habesha Steel Mills PLC is a steel manufacturing company producing rebar and related construction materials in Ethiopia.\n\n💼 Positions:\n1. Junior Sales Officer\n   📍 Location: Addis Ababa, Dukem, Hawassa\n   🎓 Requirements:\n   - Bachelor’s Degree or Diploma in Marketing, Sales, Business Administration, Management, Economics, or related fields\n   - 0–2 years of professional experience in sales administration, customer service, or commercial operations (fresh graduates welcome)\n\n2. Sales Officer\n   📍 Location: Addis Ababa, Dukem, Hawassa\n   🎓 Requirements:\n   - Bachelor’s Degree in Marketing, Sales, Business Administration, Management, Economics, or related fields\n   - 3–7 years of professional experience in active sales, field marketing, or commercial distribution, preferably in manufacturing, construction materials, or heavy industrial sectors\n\n3. Senior Sales and Marketing Officer\n   📍 Location: Addis Ababa, Dukem, Hawassa\n   🎓 Requirements:\n   - Bachelor’s Degree in Marketing, Sales, Business Administration, Management, Economics, or related fields\n   - Master’s Degree or professional certification is an advantage\n   - 7–10 years of progressive experience in strategic sales, brand management, key account management, or commercial operations, including at least 3 years in a senior supervisory role within manufacturing, steel, construction materials, or heavy industrial sectors\n\n📅 Deadline: October 22, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: habeshasteelhr@gmail.com",
+      "posted": "2026-09-25T12:42:27.081311Z"
+    },
     {
       "id": "325c1308df3778de7f9efcbecb88959a66fd7f5be86ef0c735f18e36859747b2",
       "company": "Ethiopian Shipping and Logistics Services Enterprise",
@@ -5498,23 +5519,6 @@
       "contact": "",
       "text": "🏷️ Technology & IT | Fresh Graduate\n\n🏢 Company: Merq Consultancy PLC  \n🏬 About: A consultancy firm delivering digital solutions and IT services in Ethiopia.  \n\n💼 Positions:  \n1. Junior Software Engineer – Digital Health & AI Solutions  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s degree in Computer Science, Software Engineering or related field  \n   - 0–2 years software development experience or strong academic projects/GitHub work  \n   - Knowledge of frontend & backend development, REST APIs and system integration  \n\n📅 Deadline: Sep 18, 2026  \n📊 Vacancy Count: 2  \n📝 Description: Develop and maintain software for digital health and AI applications.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:50:41.118296Z"
-    },
-    {
-      "id": "3534b6ea33a55116ecaebfccfd6f34d011007f3d3379664b78041dcab015ee57",
-      "company": "Lion Heart Academy",
-      "about": "A private educational institution in Ethiopia offering K‑12 programs.",
-      "positions": [
-        "speech & language therapist"
-      ],
-      "category": [
-        "Technology & IT",
-        "Education"
-      ],
-      "deadline": "Sep 16 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Education | Private Sector\n\n🏢 Company: Lion Heart Academy  \n🏬 About: A private educational institution in Ethiopia offering K‑12 programs.  \n\n💼 Positions:  \n1. Speech & Language Therapist  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s degree in Speech & Language Therapy, ≥3 years experience  \n   - Proficiency in MS Excel and related software  \n   - Strong knowledge of special‑needs education  \n\n📅 Deadline: Sep 16 2026  \n📊 Vacancy Count: 1  \n\n📝 Description: Join a mission‑driven school providing a supportive, value‑based environment and growth opportunities.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:49:08.915417Z"
     }
   ]
 }
