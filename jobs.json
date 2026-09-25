@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-25T12:44:31.148896Z",
+  "updated": "2026-09-25T12:44:56.344942Z",
   "jobs": [
+    {
+      "id": "ced82594e66d0d9cc2dabd1065a6d807fd5d5e423456d13d6c8e605c7c5e7502",
+      "company": "Maleda Foam and Plastic Manufacturing",
+      "about": "A manufacturing company in Ethiopia that produces foam mattresses and various plastic products.",
+      "positions": [
+        "Sales Intern"
+      ],
+      "category": [
+        "Fresh Graduate"
+      ],
+      "deadline": "October 3rd, 2026",
+      "link": "",
+      "contact": "hr@maledafoam.com",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: Maleda Foam and Plastic Manufacturing\n🏬 About: A manufacturing company in Ethiopia that produces foam mattresses and various plastic products.\n\n💼 Positions:\n1. Sales Intern\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BA degree in any field of study\n   - Cumulative GPA above 2.5 and successful completion of the national exit exam\n   - Year of graduation 2025/26 or later\n   - Age not more than 25 years\n   - Ability to commit to a 3‑6 month internship\n   - Strong willingness to learn and work independently with minimal supervision\n   - Willingness to sign the internship program agreement\n   - Good communication, interpersonal, and customer relationship skills\n   - Prior training or certification in sales, marketing, or customer service (advantage)\n   - Sales execution, negotiation, and performance management skills\n\n📍 Location: Addis Ababa\n💼 Employment Type: Internship\n📅 Deadline: October 3rd, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: hr@maledafoam.com",
+      "posted": "2026-09-25T12:44:52.296570Z"
+    },
     {
       "id": "366426a2fdf571cccfd0435c6b59d4ebcc077563272ead12e0eba369a2297d2d",
       "company": "Ethiopian Council of Gospel Believer’s Churches",
@@ -5515,22 +5533,6 @@
       "contact": "",
       "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Gses General Trading plc  \n🏬 About: A private company engaged in general trading and construction services in Ethiopia.  \n\n💼 Positions:  \n1. Contract Engineer  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - B.Sc in Civil Engineering or Construction Technology & Management  \n   - 4 years experience in building construction  \n   - Mid‑level (3‑5 years) experience  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Oct 01, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:53:43.762951Z"
-    },
-    {
-      "id": "b4e214ecba3fb3e01364d0ed0fedc4a7b1a05c2d9d997157d273c9b46a5e1189",
-      "company": "Gses General Trading plc",
-      "about": "A private Ethiopian company engaged in general trading and construction services.",
-      "positions": [
-        "senior office engineer"
-      ],
-      "category": [
-        "Construction & Engineering"
-      ],
-      "deadline": "Oct 01, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Gses General Trading plc\n🏬 About: A private Ethiopian company engaged in general trading and construction services.\n\n💼 Positions:\n1. Senior Office Engineer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - B.Sc. in Civil Engineering or Construction Technology & Management\n   - Minimum 7 years experience in building construction\n   - Proven senior‑level project oversight skills\n\n📅 Deadline: Oct 01, 2026\n📊 Vacancy Count: 1\n📝 Description: Oversees office engineering tasks for building projects.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:53:25.185985Z"
     }
   ]
 }
