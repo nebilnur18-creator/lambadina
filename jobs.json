@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-25T12:56:55.958370Z",
+  "updated": "2026-09-25T12:57:14.338214Z",
   "jobs": [
+    {
+      "id": "71ed4c9a8d5c6075d4f2e5b14fbe036daf9c50749a531742eb8973aa32784a4d",
+      "company": "Larsat",
+      "about": "Larsat provides postpartum care services, focusing on the health of newborns and mothers.",
+      "positions": [
+        "Midwife"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "",
+      "contact": "****@LarsatArasPackageHR**",
+      "application_method": "Send application via email.",
+      "image": null,
+      "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Larsat  \n🏬 About: Larsat provides postpartum care services, focusing on the health of newborns and mothers.  \n\n💼 Positions:\n1. Midwife\n   📍 Location: Bole, Addis Ababa\n   🎓 Requirements:\n   - Experience in child care and midwifery.\n   - Ability to care for and protect newborns, especially premature infants.\n   - Minimum 6 months of work experience in midwifery.\n   - Female gender.\n   - Willingness to work from home, caring for one infant.\n   - Work hours: 2:00 AM – 11:00 AM.  \n\n💰 Salary: 13,000 ETB (for 40 days)  \n\n📝 Description: Provide postpartum care for newborns and mothers, including specialized handling of premature infants, within a home setting.  \n\n📞 Contact: ****@LarsatArasPackageHR**  \n\n📝 Application Method: Send application via email.",
+      "posted": "2026-09-25T12:57:09.900904Z"
+    },
     {
       "id": "5f322bf6d4594682b30f68634942aa2bf469e19260df05511968429038475120",
       "company": "Individual/Private Employer",
@@ -5533,22 +5551,6 @@
       "contact": "",
       "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: Hilmen Aluminum plc  \n🏬 About: A private company operating in the aluminum manufacturing sector in Ethiopia.  \n\n💼 Positions:  \n1. Junior Accountant  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s degree in Accounting or Finance  \n   - Proficiency in Microsoft Excel and accounting software  \n   - Strong attention to detail and accuracy  \n\n📅 Deadline: Oct 10, 2026  \n📊 Vacancy Count: 1  \n\n📝 Description: Performs accounting tasks and supports financial reporting.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:56:52.648795Z"
-    },
-    {
-      "id": "0b9ac65789164e84d4c0816fe659aca5e849d631c9b24424c8bba463a3f174b8",
-      "company": "Repi Soap & Detergent PLC",
-      "about": "A manufacturing company producing soaps and detergents in Ethiopia.",
-      "positions": [
-        "project procurement head"
-      ],
-      "category": [
-        "Logistics & Supply Chain"
-      ],
-      "deadline": "Oct 10, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Logistics & Supply Chain | Private Sector\n\n🏢 Company: Repi Soap & Detergent PLC  \n🏬 About: A manufacturing company producing soaps and detergents in Ethiopia.  \n\n💼 Positions:  \n1. Project Procurement Head  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BA in Logistics, Supply Chain, Business or related field  \n   - Minimum 5 years relevant experience  \n   - At least 2 years as Senior Procurement Officer in FMCG  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Oct 10, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:56:05.684421Z"
     }
   ]
 }
