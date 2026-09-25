@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-25T12:38:39.416621Z",
+  "updated": "2026-09-25T12:38:56.734229Z",
   "jobs": [
+    {
+      "id": "f12d85d6bede178fe98a4615653ef9ba83e85617b34572dab6aada99f690305e",
+      "company": "Individual/Private Employer",
+      "about": "A private employer operating in the dairy sector, offering milk processing work.",
+      "positions": [
+        "Dairy Worker"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "",
+      "contact": "+251980446111",
+      "application_method": "Call or send your CV to this number",
+      "image": null,
+      "text": "🏷️ Private Sector\n\n🏢 Company: Individual/Private Employer\n🏬 About: A private employer operating in the dairy sector, offering milk processing work.\n\n💼 Positions:\n1. Dairy Worker\n📍 Location: 24 Condominium (Estimated Addis Ababa) (Estimated)\n   🎓 Requirements:\n   - Clean and able to work well with people\n\n💰 Salary: agreement\n📝 Description: Direct hiring for a dairy worker position with advance payment provided. Must be clean and able to collaborate well with others.\n📊 Vacancy Count: 1\n💼 Employment Type: Full-time\n\n📝 Application Method: Call or send your CV to this number\n📞 Contact: +251980446111",
+      "posted": "2026-09-25T12:38:53.970218Z"
+    },
     {
       "id": "81e2efcccdd12644dc0c06df3308b256e4dbebf46c4723c25bb8bf749dea47a4",
       "company": "Lampros Trading PLC",
@@ -5467,22 +5485,6 @@
       "contact": "",
       "text": "🏷️ Healthcare\n\n🏢 Company: YADAM Foundation  \n🏬 About: A non‑profit foundation focused on improving health and nutrition outcomes in Ethiopia.\n\n💼 Positions:\n1. MMS Market Shaping Strategy Consultant  \n   📍 Location: Addis Ababa (travel to regions as required)  \n   🎓 Requirements:\n   - Master’s degree in public health, nutrition, health economics, marketing or related field  \n   - 7–10 years experience in health commodity market shaping, supply‑chain strengthening or product marketing  \n   - Proven ability to design demand‑generation or social‑marketing approaches for health products  \n\n📊 Vacancy Count: 1  \n💼 Employment Type: Executive  \n📅 Deadline: Sep 17, 2026  \n📝 Description: Lead market‑shaping strategies for micronutrient and health product supply chains.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:30:24.279723Z"
-    },
-    {
-      "id": "42ffe779981d8b7cebf65832c3b6104b1407cbfe091143f78b63f4829aacd3c2",
-      "company": "Walia Technologies PLC",
-      "about": "A private technology company operating in Ethiopia.",
-      "positions": [
-        "junior import warehouse officer"
-      ],
-      "category": [
-        "Logistics & Supply Chain"
-      ],
-      "deadline": "October 5, 2026",
-      "link": "https://elelanajobs.com/2026/09/10/walia-technologies-plc/",
-      "contact": "hr@waliatechnologies.net",
-      "text": "🏷️ Private Sector | Technology & IT\n\n🏢 Company: Walia Technologies PLC  \n🏬 About: A private technology company operating in Ethiopia.  \n\n💼 Positions:  \n1. Junior Import Warehouse Officer  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s degree in Business, Customer Service or related field  \n   - 1–2 years experience in reception, customer service or admin roles  \n   - Proficiency in MS Office and strong English/Amharic communication  \n\n📅 Deadline: October 5, 2026  \n📞 Contact: hr@waliatechnologies.net  \n\n📝 Application Method: Send CV and application letter via email  \n🔗 Link: https://elelanajobs.com/2026/09/10/walia-technologies-plc/",
-      "posted": "2026-09-10T09:29:35.796134Z"
     }
   ]
 }
