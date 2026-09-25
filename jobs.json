@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-25T12:58:11.132478Z",
+  "updated": "2026-09-25T12:58:28.693801Z",
   "jobs": [
+    {
+      "id": "4ba68aff4be9a692c98964a9a562ed5e60a709f59ebe69bec9c7a5f659d6f803",
+      "company": "GA Engineering",
+      "about": "GA Engineering is a private engineering firm operating in Ethiopia, providing engineering and project management services.",
+      "positions": [
+        "Office Engineer"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "",
+      "link": "",
+      "contact": "kalkidan.g@gaengineering.et",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: GA Engineering\n🏬 About: GA Engineering is a private engineering firm operating in Ethiopia, providing engineering and project management services.\n\n💼 Positions:\n1. Office Engineer\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Bachelor’s Degree in any Engineering field\n   - Certification/training in Document Control (preferred)\n   - 3–5 years experience as Office Engineer, Technical Administrator, or Project Coordinator\n   - Background/skills in electromechanical & ICT (preferred)\n\n💰 Salary: Negotiable (Based on scale & experience)\n💼 Employment Type: Full-Time\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: kalkidan.g@gaengineering.et",
+      "posted": "2026-09-25T12:58:24.936251Z"
+    },
     {
       "id": "aae38509d63ff8b85edd8d2ce0a744d2ea2739a915b424761372dd83174ad055",
       "company": "Habte Garment and Printing PLC",
@@ -5544,23 +5563,6 @@
       "contact": "",
       "text": "🏷️ Private Sector\n\n🏢 Company: Bero Mining and Trading PLC  \n🏬 About: A private company operating in the mining and trading sector in Ethiopia.  \n\n💼 Positions:  \n\n1️⃣ Store Keeper  \n📍 Location: South West Ethiopia, Bero Woreda (Estimated)  \n🎓 Requirements:  \n- Diploma with 4 years experience or equivalent  \n- 3‑5 years relevant experience  \n- Inventory management skills  \n📝 Description: Manages inventory and store operations.  \n\n2️⃣ Machine Operator  \n📍 Location: South West Ethiopia, Bero Woreda (Estimated)  \n🎓 Requirements:  \n- Experience in gold mining operations  \n- Ability to operate mining machinery  \n- 1‑3 years relevant experience  \n📝 Description: Operate machinery for gold mining operations.  \n\n📊 Vacancy Count: 3  \n📅 Deadline: Oct 11, 2026  \n📝 Application Method: Browse open positions on https://ethiojobs.net  \n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:58:37.899451Z"
-    },
-    {
-      "id": "3f502679bfe740992504c861c4ef6fbae1f31faa16d86c673052770e10d9281c",
-      "company": "Dream Liyana Healthcare PLC",
-      "about": "A private company operating in the healthcare sector in Ethiopia.",
-      "positions": [
-        "hospital receptionist"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Healthcare"
-      ],
-      "deadline": "Sep 17 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Fresh Graduate | Healthcare\n\n🏢 Company: Dream Liyana Healthcare PLC  \n🏬 About: A private company operating in the healthcare sector in Ethiopia.  \n\n💼 Positions:  \n1. Hospital Receptionist  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Diploma or Level IV in IT, Accounting, office management or related field  \n   - 0‑1 year experience; hospital/clinic reception experience preferred  \n   - Excellent communication and interpersonal skills  \n\n📝 Description: Manages front‑desk operations and patient intake at the hospital.  \n📊 Vacancy Count: 2  \n📅 Deadline: Sep 17 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:58:18.273333Z"
     }
   ]
 }
