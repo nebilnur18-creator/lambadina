@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-25T12:41:35.992207Z",
+  "updated": "2026-09-25T12:41:55.451741Z",
   "jobs": [
+    {
+      "id": "1f6eba7610cd774c7c09a3033396bfd666c8c32df53f9595ab56803e1f0b7642",
+      "company": "Girum General Hospital",
+      "about": "A private hospital in Addis Ababa founded in 2007 by Dr. Girum Berhane, offering advanced healthcare services with modern equipment and a focus on efficient hospital management.",
+      "positions": [
+        "Marketing Internship"
+      ],
+      "category": [
+        "Fresh Graduate",
+        "Healthcare"
+      ],
+      "deadline": "September 29, 2026",
+      "link": "",
+      "contact": "girumhosphr@gmail.com",
+      "application_method": "Send your CV/application via email",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/1f6eba7610cd774c7c09a3033396bfd666c8c32df53f9595ab56803e1f0b7642.jpg",
+      "text": "🏷️ Healthcare | Fresh Graduate\n\n🏢 Company: Girum General Hospital\n🏬 About: A private hospital in Addis Ababa founded in 2007 by Dr. Girum Berhane, offering advanced healthcare services with modern equipment and a focus on efficient hospital management.\n\n💼 Positions:\n1. Marketing Internship\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Medical Doctor/General Practitioner (GP) with strong communication skills\n   - Fresh graduate (0 years experience)\n\n📍 Location: Addis Ababa\n💰 Salary: As per the company pay scale\n📝 Description: Three-month internship offering young doctors practical experience in healthcare marketing, community engagement, and patient communication.\n💼 Employment Type: Internship (Three-month)\n📅 Deadline: September 29, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: girumhosphr@gmail.com",
+      "posted": "2026-09-25T12:41:47.739913Z"
+    },
     {
       "id": "01296f9660a04c0cfd5df2c652eccf7866f74b978a140b9c99db527edfe08926",
       "company": "International Rescue Committee",
@@ -5492,24 +5511,6 @@
       "contact": "",
       "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: BGS Poultry Farm  \n🏬 About: A private company operating in the poultry farming sector in Ethiopia.  \n\n💼 Positions:  \n1. Finance and Administrative Officer  \n   📍 Location: Summit and 5 Killo  \n   🎓 Requirements:  \n   - Bachelor’s degree in Accounting & Finance  \n   - >1 year experience in finance and HR administration  \n   - Proficiency with CNET, payroll and POS software  \n\n📊 Vacancy Count: 1  \n💼 Employment Type: Junior Level  \n📅 Deadline: Oct 10, 2026  \n📝 Description: Handles finance, payroll, accounting and administrative compliance.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:47:38.962191Z"
-    },
-    {
-      "id": "8e3defc7c69ddc1c6eb345795e756e2260d5457dc887e04a4e99f3a60d0c44b3",
-      "company": "Lawyers for Human Rights",
-      "about": "An Ethiopian NGO providing legal advocacy and protecting human rights.",
-      "positions": [
-        "senior attorney – lawyer",
-        "senior attorney – lawyer"
-      ],
-      "category": [
-        "Government",
-        "Education"
-      ],
-      "deadline": "Sep 19, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ NGO / International\n\n🏢 Company: Lawyers for Human Rights  \n🏬 About: An Ethiopian NGO providing legal advocacy and protecting human rights.  \n\n💼 Positions:  \n1. Senior Attorney – Lawyer  \n   📍 Location: Hawassa  \n   🎓 Requirements:  \n   - LL.B with 5–7 years criminal/human‑rights litigation experience  \n   - Valid advocacy license for regional/federal courts  \n   - Fluency in English & Amharic, strong knowledge of Ethiopian criminal law  \n\n2. Senior Attorney – Lawyer  \n   📍 Location: Shashamene  \n   🎓 Requirements:  \n   - LL.B with 5–7 years criminal/human‑rights litigation experience  \n   - Valid advocacy license for regional/federal courts  \n   - Fluency in English & Amharic, strong knowledge of Ethiopian criminal law  \n\n📅 Deadline: Sep 19, 2026  \n📊 Vacancy Count: 2  \n📝 Description: Lead criminal and human‑rights cases across regional courts.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:44:01.862810Z"
     }
   ]
 }
