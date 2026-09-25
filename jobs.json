@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-25T12:42:34.085497Z",
+  "updated": "2026-09-25T12:43:26.568540Z",
   "jobs": [
+    {
+      "id": "3903b358ad514dc2ac924fad8518a97001bc3fbc7c678423301639f9b0b22ca8",
+      "company": "Prime Capital S.C.",
+      "about": "A licensed investment bank regulated by the Ethiopian Capital Market Authority, offering transaction advisory, capital raising, underwriting, and trading & brokerage services.",
+      "positions": [
+        "Business Development Officer",
+        "Marketing Officer",
+        "Business Development Manager"
+      ],
+      "category": [
+        "Banking & Finance",
+        "Executive"
+      ],
+      "deadline": "October 5, 2026",
+      "link": "",
+      "contact": "info@primecapitalsc.com",
+      "application_method": "Send your CV/application via email",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/3903b358ad514dc2ac924fad8518a97001bc3fbc7c678423301639f9b0b22ca8.jpg",
+      "text": "🏷️ Banking & Finance\n\n🏢 Company: Prime Capital S.C.\n🏬 About: A licensed investment bank regulated by the Ethiopian Capital Market Authority, offering transaction advisory, capital raising, underwriting, and trading & brokerage services.\n\n💼 Positions:\n1. Business Development Officer\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Bachelor’s degree in Business Administration, Research, Marketing, Economics, or related field\n   - 2–3 years of experience in business development, sales, corporate relations, or investment banking\n   - Proven experience in proposal writing and pitch deck creation\n   - Experience in tender/bid preparation\n   - Excellent presentation skills\n   - Full business development cycle responsibilities\n\n2. Marketing Officer\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Bachelor’s degree in Marketing or related field\n   - Minimum 4 years of experience in marketing\n   - Proven experience in digital marketing, brand management, and event planning\n   - Strong market research and analysis capability\n   - Strong content creation and copywriting skills\n   - Presentation skills\n\n3. Business Development Manager\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Bachelor’s degree in Business Administration, Marketing, Research, Economics or related field with 8 years of experience in business development, or Master’s degree in the same fields with 6 years of experience\n   - Proven track record of securing mandates or closing deals\n   - Strong understanding of Ethiopian capital markets and regulations\n   - Experience in proposal writing, pitch preparation, and client relationship management\n   - Excellent presentation skills\n   - Leadership of Business Development Division\n\n💰 Salary: As per the Bank’s Salary Scale & Benefits Package\n📝 Description: Prime Capital S.C. is a trading member of the Ethiopian Securities Exchange, providing comprehensive investment banking services to clients.\n📅 Deadline: October 5, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: info@primecapitalsc.com",
+      "posted": "2026-09-25T12:43:23.459281Z"
+    },
     {
       "id": "51b7db2700d70df56763fafe042d87e32c0a9f3a96545f2dd26ce66845740706",
       "company": "Habesha Steel Mills PLC",
@@ -5502,23 +5523,6 @@
       "contact": "",
       "text": "🏷️ Private Sector | Fresh Graduate\n\n🏢 Company: Wagwago Business Group  \n🏬 About: A private company operating in the business and marketing sector in Ethiopia.  \n\n💼 Positions:  \n1. Sales Representative  \n   📍 Location: Bole  \n   🎓 Requirements:  \n   - Degree/Diploma in Business, IT, Marketing or related field  \n   - Minimum 1 year sales experience or strong aptitude as a recent graduate  \n   - Proficiency in Amharic and English, basic CRM skills  \n\n📊 Vacancy Count: 5  \n📅 Deadline: Oct 10, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:52:23.647000Z"
-    },
-    {
-      "id": "0b6c74268203378359970241c55f0c93851be6cf1e74cf7c6300043f7d512cff",
-      "company": "Merq Consultancy PLC",
-      "about": "A consultancy firm delivering digital solutions and IT services in Ethiopia.",
-      "positions": [
-        "junior software engineer – digital health & ai solutions"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Construction & Engineering"
-      ],
-      "deadline": "Sep 18, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Technology & IT | Fresh Graduate\n\n🏢 Company: Merq Consultancy PLC  \n🏬 About: A consultancy firm delivering digital solutions and IT services in Ethiopia.  \n\n💼 Positions:  \n1. Junior Software Engineer – Digital Health & AI Solutions  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s degree in Computer Science, Software Engineering or related field  \n   - 0–2 years software development experience or strong academic projects/GitHub work  \n   - Knowledge of frontend & backend development, REST APIs and system integration  \n\n📅 Deadline: Sep 18, 2026  \n📊 Vacancy Count: 2  \n📝 Description: Develop and maintain software for digital health and AI applications.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:50:41.118296Z"
     }
   ]
 }
