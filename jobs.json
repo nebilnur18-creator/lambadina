@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-25T13:00:05.687116Z",
+  "updated": "2026-09-25T13:00:24.372773Z",
   "jobs": [
+    {
+      "id": "81a989d8ffbb8ceff9f352f3531dd9c0b4d4639276cb1990ed7578dd9ea4f137",
+      "company": "Abbahawa Trading PLC",
+      "about": "A private company engaged in coffee processing and manufacturing in Ethiopia.",
+      "positions": [
+        "Junior Color Sorting Operator"
+      ],
+      "category": [
+        "Fresh Graduate"
+      ],
+      "deadline": "October 24th, 2026",
+      "link": "",
+      "contact": "recruitment@abbahawa.com",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: Abbahawa Trading PLC\n🏬 About: A private company engaged in coffee processing and manufacturing in Ethiopia.\n\n💼 Positions:\n1. Junior Color Sorting Operator\n   📍 Location: Lebu/Kality\n   🎓 Requirements:\n   - BSc degree\n   - Field of study: Industrial Engineering, Automation Engineering, Mechanics, or Electro‑Mechanics\n   - CGPA above 3.2\n   - Zero work experience (fresh graduate)\n   - Communication skill\n\n📍 Location: Lebu/Kality\n📅 Deadline: October 24th, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: recruitment@abbahawa.com",
+      "posted": "2026-09-25T13:00:21.256222Z"
+    },
     {
       "id": "74226e41ac0f54cb50211c775cd82213eb7a50b353aefe8ce0b83c012036edfc",
       "company": "Horticoop Ethiopia (Horticulture) PLC",
@@ -5570,23 +5588,6 @@
       "contact": "",
       "text": "🏷️ Education\n\n🏢 Company: Kelem International School  \n🏬 About: Kelem International School, formerly the Swedish Community School, delivers Swedish‑based education in English to preschool‑through‑lower secondary students in Addis Ababa.  \n\n💼 Positions:  \n1. Junior General Service & Procurement Officer  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BA degree in Management, Procurement & Supply Chain or Business Administration  \n   - Minimum 1 year relevant experience in procurement or logistics  \n   - Basic knowledge of procurement procedures and documentation  \n\n📅 Deadline: Sept 14 2026  \n📝 Application Method: Apply via source job page  \n🔗 Link: https://ethiojobshub.com/kelem-international-school-vacancy/",
       "posted": "2026-09-10T10:09:08.263864Z"
-    },
-    {
-      "id": "93948f723afe7c5d7bf51b0c0e9396f56fda5e28adf9aa27fa724a5ce2d1fff9",
-      "company": "Hareg Import and Export PLC",
-      "about": "A private company operating in the import and export sector in Ethiopia.",
-      "positions": [
-        "project execution department – executive (vp/director)"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Logistics & Supply Chain"
-      ],
-      "deadline": "Sep 22, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Executive | Construction & Engineering\n\n🏢 Company: Hareg Import and Export PLC  \n🏬 About: A private company operating in the import and export sector in Ethiopia.  \n\n💼 Positions:  \n1. Project Execution Department – Executive (VP/Director)  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - B.Sc. in Electrical, Mechanical or Electro‑Mechanical Engineering  \n   - Minimum 7 years progressive experience in project execution  \n   - Proven leadership at VP/Director level (8‑12 years total experience)  \n\n📅 Deadline: Sep 22, 2026  \n📊 Vacancy Count: 1  \n📝 Description: Oversees project execution and development initiatives.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T10:04:38.492990Z"
     }
   ]
 }
