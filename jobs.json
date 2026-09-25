@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-25T12:03:56.152764Z",
+  "updated": "2026-09-25T12:04:21.393061Z",
   "jobs": [
+    {
+      "id": "fd81432a7048abd5b0f95e09db51f28bab783e2b0c9a026dfce172ff06db7dea",
+      "company": "Ethiopian Sky Technologies",
+      "about": "A joint venture between Ethiopian Airlines and Italy's Sky techno, manufacturing aerospace insulation blankets at its Bole Airport facility in Addis Ababa.",
+      "positions": [
+        "Junior Assembler"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "September 25, 2026",
+      "link": "",
+      "contact": "EsayasTam@Ethiopianskytechnologies.com",
+      "application_method": "Send your CV/application via email",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/fd81432a7048abd5b0f95e09db51f28bab783e2b0c9a026dfce172ff06db7dea.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: Ethiopian Sky Technologies\n🏬 About: A joint venture between Ethiopian Airlines and Italy's Sky techno, manufacturing aerospace insulation blankets at its Bole Airport facility in Addis Ababa.\n\n💼 Positions:\n1. Junior Assembler\n   📍 Location: Bole Airport, Addis Ababa\n   🎓 Requirements:\n   - Grade 10 Certificate\n   - Grade 12 Certificate\n   - Work experience in any manufacturing area (preferred)\n   - Proficiency in English (mandatory)\n   - Age 20‑35 years\n   - Female applicants are encouraged\n\n📅 Deadline: September 25, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: EsayasTam@Ethiopianskytechnologies.com",
+      "posted": "2026-09-25T12:04:19.758960Z"
+    },
     {
       "id": "1500170b311768a0fb2e29b979d8ed1d2505abae7f9913efdbf0f25aa997a564",
       "company": "St. Gabriel General Hospital PLC",
@@ -5398,24 +5416,6 @@
       "contact": "@HKBoston",
       "text": "🏷️ Private Sector\n\n🏢 Company: Boston Coffee  \n🏬 About: A private coffee shop operating in Ethiopia.  \n\n💼 Positions:  \n1. Pastry Chef / Cake Specialist  \n   📍 Location: Bole, Addis Ababa  \n   🎓 Requirements:  \n   - Proven pastry experience  \n   - Skilled in cake preparation  \n   - Ability to work independently  \n\n💰 Salary: Negotiable  \n📝 Application Method: Apply via Telegram  \n📞 Contact: @HKBoston",
       "posted": "2026-09-09T15:30:46.454091Z"
-    },
-    {
-      "id": "cfe1bc056b12537a3fc66c62083a6cf9ab9e401c7ad70a3bb8e688a2a9d3bed3",
-      "company": "EthioChicken",
-      "about": "Leading Ethiopian chicken distributor serving rural farmers.",
-      "positions": [
-        "reporting analyst",
-        "senior reporting analyst",
-        "data & reporting manager"
-      ],
-      "category": [
-        "Executive"
-      ],
-      "deadline": "15 Sep 2026",
-      "link": "https://ethiojobshub.com/ethiochicken-job-vacancy-2/",
-      "contact": "careers@ethiochicken.com",
-      "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: EthioChicken  \n🏬 About: Leading Ethiopian chicken distributor serving rural farmers.  \n\n💼 Positions:  \n1. Reporting Analyst  \n   📍 Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s in relevant field  \n   - 1‑2 yrs reporting  \n   - Python analysis  \n\n2. Senior Reporting Analyst  \n   📍 Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s in relevant field  \n   - 2‑4 yrs analytics  \n   - Advanced Python  \n\n3. Data & Reporting Manager  \n   📍 Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s in IT/CS  \n   - 5+ yrs analytics, 2+ yrs lead  \n   - Python & Azure/GCP pipelines  \n\n📅 Deadline: 15 Sep 2026  \n📞 Contact: careers@ethiochicken.com  \n\n📝 Application Method: Email cover letter & CV, subject = position  \n🔗 Link: https://ethiojobshub.com/ethiochicken-job-vacancy-2/",
-      "posted": "2026-09-09T15:29:25.696671Z"
     }
   ]
 }
