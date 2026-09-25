@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-25T13:10:51.926399Z",
+  "updated": "2026-09-25T13:11:00.056069Z",
   "jobs": [
+    {
+      "id": "213678895801a2eed9cb4d50e59045025dfe4b59c0af4871b7beb94659a1e17c",
+      "company": "Individual/Private Employer",
+      "about": "A private employer hiring drivers for transportation tasks.",
+      "positions": [
+        "Driver (with own motor vehicle)"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "",
+      "contact": "0945141414",
+      "application_method": "Call or send your CV to this number",
+      "image": null,
+      "text": "🏷️ Logistics & Supply Chain | Private Sector\n\n🏢 Company: Individual/Private Employer\n🏬 About: A private employer hiring drivers for transportation tasks.\n\n💼 Positions:\n1. Driver (with own motor vehicle)\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Valid driver’s license (third class)\n   - Own motor vehicle with registration\n   - Ability to operate the vehicle independently\n\n📊 Vacancy Count: 10\n\n📝 Application Method: Call or send your CV to this number\n📞 Contact: 0945141414",
+      "posted": "2026-09-25T13:10:58.307266Z"
+    },
     {
       "id": "932b45fefd4251c6fa91f958ca43329e30b7b8acf5b7b8a4b88cdf68c64ae442",
       "company": "Sparkle Pre School Plc",
@@ -5592,23 +5610,6 @@
       "contact": "",
       "text": "🏷️ Private Sector\n\n🏢 Company: Hareg Import and Export PLC\n🏬 About: A private company operating in Ethiopia’s import and export sector.\n\n💼 Positions:\n1. Junior Sales Engineer\n2. Communication Officer\n3. Senior Sales Engineer\n…and 2 more positions — full list on our website.\n\n📍 Location: Addis Ababa (Estimated)\n📅 Deadline: September 23, 2026\n📝 Application Method: Apply via source job page\n🔗 Link: https://effoysira.com/hareg-import-and-export-plc-vacancy/",
       "posted": "2026-09-11T16:33:59.580342Z"
-    },
-    {
-      "id": "3d68792c88b778f5f428528c2c50376e3a239a0b825d32e6bcf06d1ab3d019e2",
-      "company": "EthioChicken",
-      "about": "EthioChicken is a poultry production company operating in Ethiopia.",
-      "positions": [
-        "logistics officer – fleet controller"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Logistics & Supply Chain"
-      ],
-      "deadline": "September 16, 2026",
-      "link": "https://effoysira.com/ethiochicken-vacancy-fresh-graduates/",
-      "contact": "",
-      "text": "🏷️ Fresh Graduate | Logistics & Supply Chain\n\n🏢 Company: EthioChicken  \n🏬 About: EthioChicken is a poultry production company operating in Ethiopia.  \n\n💼 Positions:  \n1. Logistics Officer – Fleet Controller  \n   🎓 Requirements:  \n   - Degree in IT, transport management, computer science or related field  \n   - Fresh graduate  \n\n📅 Deadline: September 16, 2026  \n📝 Application Method: Apply via source job page  \n🔗 Link: https://effoysira.com/ethiochicken-vacancy-fresh-graduates/",
-      "posted": "2026-09-11T16:31:50.936018Z"
     }
   ]
 }
