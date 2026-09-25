@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-25T12:46:21.483382Z",
+  "updated": "2026-09-25T12:56:55.958370Z",
   "jobs": [
+    {
+      "id": "5f322bf6d4594682b30f68634942aa2bf469e19260df05511968429038475120",
+      "company": "Individual/Private Employer",
+      "about": "A private employer operating in the furniture manufacturing sector in Ethiopia.",
+      "positions": [
+        "Sofa Woodworker (Furniture Manufacturing)"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "",
+      "contact": "0984217657",
+      "application_method": "Call or send your CV to this number",
+      "image": null,
+      "text": "🏷️ Private Sector\n\n🏢 Company: Individual/Private Employer\n🏬 About: A private employer operating in the furniture manufacturing sector in Ethiopia.\n\n💼 Positions:\n1. Sofa Woodworker (Furniture Manufacturing)\n   📍 Location: Kaliti, Addis Ababa\n   🎓 Requirements:\n   - Completed Grade 10 education\n   - 2–3 years relevant work experience\n   - Ability to work in a team\n   - Strong result‑orientation and productivity focus\n   - Good communication and relationship‑building skills\n\n💰 Salary: Negotiable\n📝 Description: Responsible for executing orders accurately and on time, meeting daily production targets, and maintaining positive relationships with staff.\n\n📝 Application Method: Call or send your CV to this number\n📞 Contact: 0984217657",
+      "posted": "2026-09-25T12:56:52.126442Z"
+    },
     {
       "id": "ea754d51c57883fea4d0e5ba11be54a15bae10b22366b980901277f0ca583f2d",
       "company": "Gift Business Group",
@@ -5531,23 +5549,6 @@
       "contact": "",
       "text": "🏷️ Logistics & Supply Chain | Private Sector\n\n🏢 Company: Repi Soap & Detergent PLC  \n🏬 About: A manufacturing company producing soaps and detergents in Ethiopia.  \n\n💼 Positions:  \n1. Project Procurement Head  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BA in Logistics, Supply Chain, Business or related field  \n   - Minimum 5 years relevant experience  \n   - At least 2 years as Senior Procurement Officer in FMCG  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Oct 10, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:56:05.684421Z"
-    },
-    {
-      "id": "fe5e724172ff18bfc5aa6e272899532f0a5340215433c0d295b7a461a7d5f723",
-      "company": "Hareg Import and Export PLC",
-      "about": "A private company operating in the import and export sector in Ethiopia.",
-      "positions": [
-        "junior sales engineer"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Construction & Engineering"
-      ],
-      "deadline": "Sep 22, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Fresh Graduate | Construction & Engineering\n\n🏢 Company: Hareg Import and Export PLC  \n🏬 About: A private company operating in the import and export sector in Ethiopia.  \n\n💼 Positions:  \n1. Junior Sales Engineer  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BSc in Electromechanical Engineering (graduated ≤ 2024)  \n   - No prior work experience required  \n   - Entry‑level candidate  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Sep 22, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:55:47.414754Z"
     }
   ]
 }
