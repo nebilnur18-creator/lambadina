@@ -1,6 +1,28 @@
 {
-  "updated": "2026-09-26T05:01:30.469562Z",
+  "updated": "2026-09-26T05:01:41.341163Z",
   "jobs": [
+    {
+      "id": "a36047c628d271c4749506e338b5fbf02b4d2d611fae5bcf373780e121ca15d8",
+      "company": "Metemamen Micro Finance Institution S.C",
+      "about": "Metemamen Micro Finance Institution S.C is a licensed micro‑finance institution operating nationwide in Ethiopia, providing financing for trading businesses, short‑term deficits, livestock fattening, equipment purchase, and construction projects.",
+      "positions": [
+        "Junior Customer Service Officer",
+        "Digital Systems Development & Integration Officer",
+        "Risk Management & Compliance Officer",
+        "Cashier Secretary 1"
+      ],
+      "category": [
+        "Banking & Finance",
+        "Construction & Engineering"
+      ],
+      "deadline": "October 1, 2026",
+      "link": "",
+      "contact": "metemamenhr@gmail.com",
+      "application_method": "Send your CV/application via email",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/a36047c628d271c4749506e338b5fbf02b4d2d611fae5bcf373780e121ca15d8.jpg",
+      "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Metemamen Micro Finance Institution S.C\n🏬 About: Metemamen Micro Finance Institution S.C is a licensed micro‑finance institution operating nationwide in Ethiopia, providing financing for trading businesses, short‑term deficits, livestock fattening, equipment purchase, and construction projects.\n\n💼 Positions:\n1. Junior Customer Service Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BA or TVET Level IV/III in Accounting, Economics, Management, Business Administration or related fields\n   - 0–3 years relevant work experience\n\n2. Digital Systems Development & Integration Officer\n   🎓 Requirements:\n   - Degree in Computer Science, Information Technology, Information Science, Management Information Systems, Electrical & Computer Engineering or related IT fields\n   - Relevant experience in system development and integration\n\n3. Risk Management & Compliance Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BA in Accounting & Finance or related fields\n   - 5 years relevant work experience\n\n4. Cashier Secretary 1\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - BA or TVET Level IV/III in Accounting or related fields\n   - 1–3 years relevant work experience\n   - Permanent appointment\n\n📅 Deadline: October 1, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: metemamenhr@gmail.com",
+      "posted": "2026-09-26T05:01:38.703433Z"
+    },
     {
       "id": "a9842424f2410557ac914a941159f6f392aafe79447f7f3c79dcd0f5a11d891e",
       "company": "Little Technologies Share Company",
@@ -5388,24 +5410,6 @@
       "contact": "@HKBoston",
       "text": "🏷️ Private Sector\n\n🏢 Company: Boston Coffee  \n🏬 About: A private coffee shop operating in Ethiopia.  \n\n💼 Positions:  \n1. Pastry Chef / Cake Specialist  \n   📍 Location: Bole, Addis Ababa  \n   🎓 Requirements:  \n   - Proven pastry experience  \n   - Skilled in cake preparation  \n   - Ability to work independently  \n\n💰 Salary: Negotiable  \n📝 Application Method: Apply via Telegram  \n📞 Contact: @HKBoston",
       "posted": "2026-09-09T15:30:46.454091Z"
-    },
-    {
-      "id": "cfe1bc056b12537a3fc66c62083a6cf9ab9e401c7ad70a3bb8e688a2a9d3bed3",
-      "company": "EthioChicken",
-      "about": "Leading Ethiopian chicken distributor serving rural farmers.",
-      "positions": [
-        "reporting analyst",
-        "senior reporting analyst",
-        "data & reporting manager"
-      ],
-      "category": [
-        "Executive"
-      ],
-      "deadline": "15 Sep 2026",
-      "link": "https://ethiojobshub.com/ethiochicken-job-vacancy-2/",
-      "contact": "careers@ethiochicken.com",
-      "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: EthioChicken  \n🏬 About: Leading Ethiopian chicken distributor serving rural farmers.  \n\n💼 Positions:  \n1. Reporting Analyst  \n   📍 Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s in relevant field  \n   - 1‑2 yrs reporting  \n   - Python analysis  \n\n2. Senior Reporting Analyst  \n   📍 Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s in relevant field  \n   - 2‑4 yrs analytics  \n   - Advanced Python  \n\n3. Data & Reporting Manager  \n   📍 Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s in IT/CS  \n   - 5+ yrs analytics, 2+ yrs lead  \n   - Python & Azure/GCP pipelines  \n\n📅 Deadline: 15 Sep 2026  \n📞 Contact: careers@ethiochicken.com  \n\n📝 Application Method: Email cover letter & CV, subject = position  \n🔗 Link: https://ethiojobshub.com/ethiochicken-job-vacancy-2/",
-      "posted": "2026-09-09T15:29:25.696671Z"
     }
   ]
 }
