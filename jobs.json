@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-28T05:01:02.090800Z",
+  "updated": "2026-09-28T05:01:14.369835Z",
   "jobs": [
+    {
+      "id": "f8f388ec57d7acc712565fda27007b5f3bd6d4a6756583e328bb502bf82b186b",
+      "company": "Cambridge Academy Ethiopia",
+      "about": "Cambridge Academy Ethiopia is a private school providing primary and secondary education with an international curriculum.",
+      "positions": [
+        "Primary School Librarian"
+      ],
+      "category": [
+        "Technology & IT",
+        "Education"
+      ],
+      "deadline": "Oct 02, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/f8f388ec57d7acc712565fda27007b5f3bd6d4a6756583e328bb502bf82b186b.jpg",
+      "text": "🏷️ Education | Private Sector\n\n🏢 Company: Cambridge Academy Ethiopia\n🏬 About: Cambridge Academy Ethiopia is a private school providing primary and secondary education with an international curriculum.\n\n💼 Positions:\n1. Primary School Librarian\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Library and Information Science, Education, English, or a related field\n   - Minimum 3 years of relevant school library experience, preferably in a primary or international school setting\n   - Outstanding written and spoken English\n   - Strong knowledge of children’s literature and reading development\n   - Experience with library management systems and digital catalogues\n   - Excellent organisational, IT, and communication skills\n   - Commitment to safeguarding and promoting student wellbeing\n   - Ability to work collaboratively with teachers, students, and parents\n   - Desirable: teaching qualification or professional library certification; experience with the British curriculum\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 02, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-28T05:01:12.082537Z"
+    },
     {
       "id": "d3ccded3fde2447609aee5c88ea8dda6a1d59f3dd6bb6b88206729ed9e13437a",
       "company": "BCaD Consulting Management PLC",
@@ -5556,22 +5575,6 @@
       "contact": "",
       "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: New Leaf Medical Complex  \n🏬 About: A private healthcare provider delivering comprehensive medical services in Ethiopia.  \n\n💼 Positions:  \n1. Senior Talent Development Officer  \n   📍 Location: Lebu Musica Sefer  \n   🎓 Requirements:  \n   - Bachelor’s/Master’s in HR, Business, Psychology or related field  \n   - 3‑5 years HR/talent development experience, preferably in healthcare  \n   - Proven expertise in talent acquisition and learning & development  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Oct 10, 2026  \n\n📝 Description: Leads talent acquisition, learning initiatives, and career development for the medical complex.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:57:41.437263Z"
-    },
-    {
-      "id": "cd4796909bde1523c5b71db384acbdffd2e187a1ad8cf7a0e0d0a1513f5b1778",
-      "company": "New Leaf Medical Complex (NLMC)",
-      "about": "A private medical facility delivering comprehensive healthcare services in Ethiopia.",
-      "positions": [
-        "hr officer – payroll, attendance & documentation"
-      ],
-      "category": [
-        "Healthcare"
-      ],
-      "deadline": "Oct 10, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: New Leaf Medical Complex (NLMC)  \n🏬 About: A private medical facility delivering comprehensive healthcare services in Ethiopia.  \n\n💼 Positions:  \n1. HR Officer – Payroll, Attendance & Documentation  \n   📍 Location: Lebu Musica Sefer  \n   🎓 Requirements:  \n   - BA/BSc in HR, Management or related field with 1–3 years HR experience  \n   - Practical experience in payroll, attendance and HR documentation, preferably in a hospital  \n   - Knowledge of Ethiopian labor law and HR policies  \n\n📊 Vacancy Count: 2  \n📅 Deadline: Oct 10, 2026  \n\n📝 Application Method: Apply via source job page\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:57:12.663608Z"
     }
   ]
 }
