@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-28T05:06:46.025547Z",
+  "updated": "2026-09-28T05:06:56.195701Z",
   "jobs": [
+    {
+      "id": "46da6d69b14ab2d649458b106320d04f4f1726288a8892449f6ae2a3e962f111",
+      "company": "Kerchanshe Trading Company",
+      "about": "Kerchanshe Trading Company is a private trading firm operating in Ethiopia.",
+      "positions": [
+        "Senior Mechanic"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "Sep 30, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/46da6d69b14ab2d649458b106320d04f4f1726288a8892449f6ae2a3e962f111.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: Kerchanshe Trading Company\n🏬 About: Kerchanshe Trading Company is a private trading firm operating in Ethiopia.\n\n💼 Positions:\n1. Senior Mechanic\n   📍 Location: Gelan Garage\n   🎓 Requirements:\n   - Diploma/Certificate in General Mechanics, Auto Mechanics, or related field\n   - Minimum 5 years of hands‑on maintenance and repair experience\n   - Problem‑solving, diagnostics, and communication skills\n\n📊 Vacancy Count: 1\n📅 Deadline: Sep 30, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-28T05:06:54.646742Z"
+    },
     {
       "id": "63eef3f622826fb87348c61abe9edacf7b3652b350c333a1373a6d5698a6cc4d",
       "company": "AMG Holdings",
@@ -5597,23 +5615,6 @@
       "contact": "",
       "text": "🏷️ Private Sector\n\n🏢 Company: Hareg Import and Export PLC\n🏬 About: A private company operating in Ethiopia’s import and export sector.\n\n💼 Positions:\n1. Junior Sales Engineer\n2. Communication Officer\n3. Senior Sales Engineer\n…and 2 more positions — full list on our website.\n\n📍 Location: Addis Ababa (Estimated)\n📅 Deadline: September 23, 2026\n📝 Application Method: Apply via source job page\n🔗 Link: https://effoysira.com/hareg-import-and-export-plc-vacancy/",
       "posted": "2026-09-11T16:33:59.580342Z"
-    },
-    {
-      "id": "3d68792c88b778f5f428528c2c50376e3a239a0b825d32e6bcf06d1ab3d019e2",
-      "company": "EthioChicken",
-      "about": "EthioChicken is a poultry production company operating in Ethiopia.",
-      "positions": [
-        "logistics officer – fleet controller"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Logistics & Supply Chain"
-      ],
-      "deadline": "September 16, 2026",
-      "link": "https://effoysira.com/ethiochicken-vacancy-fresh-graduates/",
-      "contact": "",
-      "text": "🏷️ Fresh Graduate | Logistics & Supply Chain\n\n🏢 Company: EthioChicken  \n🏬 About: EthioChicken is a poultry production company operating in Ethiopia.  \n\n💼 Positions:  \n1. Logistics Officer – Fleet Controller  \n   🎓 Requirements:  \n   - Degree in IT, transport management, computer science or related field  \n   - Fresh graduate  \n\n📅 Deadline: September 16, 2026  \n📝 Application Method: Apply via source job page  \n🔗 Link: https://effoysira.com/ethiochicken-vacancy-fresh-graduates/",
-      "posted": "2026-09-11T16:31:50.936018Z"
     }
   ]
 }
