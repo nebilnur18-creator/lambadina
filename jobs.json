@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-28T04:47:58.357163Z",
+  "updated": "2026-09-28T04:48:08.480905Z",
   "jobs": [
+    {
+      "id": "45c9aea92d9bd1c5776e879a942f51d3a6f74ee29675a4cb988475f634f69e9d",
+      "company": "A and M Engineering PLC",
+      "about": "A and M Engineering PLC is a private engineering firm operating in Ethiopia, providing engineering services and solutions.",
+      "positions": [
+        "Senior HR Officer"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "October 14th, 2026",
+      "link": "https://ethiojobs.net/job/c862lqgOMH-senior-hr-officer",
+      "contact": "",
+      "application_method": "Apply using the link below",
+      "image": null,
+      "text": "🏷️ Private Sector | Executive\n\n🏢 Company: A and M Engineering PLC\n🏬 About: A and M Engineering PLC is a private engineering firm operating in Ethiopia, providing engineering services and solutions.\n\n💼 Positions:\n1. Senior HR Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Human Resource Management, Business Administration, Management, Law or a related field\n   - Good knowledge of the Ethiopian Labour Proclamation and applicable employment regulations\n   - Understanding of ISO 9001:2015 and ISO 14001 standards\n   - Basic computer skills (MS Word, Excel) and experience with HR/ERP systems\n   - Basic knowledge of labor legislation\n   - Ability to coordinate multiple tasks and work under pressure\n   - Strong administrative skills with attention to detail\n   - Ability to manage many requests simultaneously\n   - Ability to build strong working relationships\n\n📅 Deadline: October 14th, 2026\n\n📝 Application Method: Apply using the link below\n🔗 Link: https://ethiojobs.net/job/c862lqgOMH-senior-hr-officer",
+      "posted": "2026-09-28T04:48:05.524905Z"
+    },
     {
       "id": "69ca9140266809e59757315fbf9322d82c22f6450aa19ed6d93e94d910c144f3",
       "company": "Destiny Line Trading PLC",
@@ -5510,23 +5528,6 @@
       "contact": "",
       "text": "🏷️ Technology & IT | Fresh Graduate\n\n🏢 Company: Merq Consultancy PLC  \n🏬 About: A consultancy firm delivering digital solutions and IT services in Ethiopia.  \n\n💼 Positions:  \n1. Junior Software Engineer – Digital Health & AI Solutions  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s degree in Computer Science, Software Engineering or related field  \n   - 0–2 years software development experience or strong academic projects/GitHub work  \n   - Knowledge of frontend & backend development, REST APIs and system integration  \n\n📅 Deadline: Sep 18, 2026  \n📊 Vacancy Count: 2  \n📝 Description: Develop and maintain software for digital health and AI applications.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:50:41.118296Z"
-    },
-    {
-      "id": "3534b6ea33a55116ecaebfccfd6f34d011007f3d3379664b78041dcab015ee57",
-      "company": "Lion Heart Academy",
-      "about": "A private educational institution in Ethiopia offering K‑12 programs.",
-      "positions": [
-        "speech & language therapist"
-      ],
-      "category": [
-        "Technology & IT",
-        "Education"
-      ],
-      "deadline": "Sep 16 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Education | Private Sector\n\n🏢 Company: Lion Heart Academy  \n🏬 About: A private educational institution in Ethiopia offering K‑12 programs.  \n\n💼 Positions:  \n1. Speech & Language Therapist  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s degree in Speech & Language Therapy, ≥3 years experience  \n   - Proficiency in MS Excel and related software  \n   - Strong knowledge of special‑needs education  \n\n📅 Deadline: Sep 16 2026  \n📊 Vacancy Count: 1  \n\n📝 Description: Join a mission‑driven school providing a supportive, value‑based environment and growth opportunities.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:49:08.915417Z"
     }
   ]
 }
