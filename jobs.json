@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-28T05:05:22.864519Z",
+  "updated": "2026-09-28T05:05:35.749269Z",
   "jobs": [
+    {
+      "id": "56fb9936ab750037b1988e10be213e0e067ffa34fa376d7d70c7696d1fbbea21",
+      "company": "Black River Express",
+      "about": "A logistics and transportation company providing express delivery services across Ethiopia.",
+      "positions": [
+        "Truck Driver Recruiter"
+      ],
+      "category": [
+        "Logistics & Supply Chain"
+      ],
+      "deadline": "Oct 26, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/56fb9936ab750037b1988e10be213e0e067ffa34fa376d7d70c7696d1fbbea21.jpg",
+      "text": "🏷️ Logistics & Supply Chain | Private Sector\n\n🏢 Company: Black River Express\n🏬 About: A logistics and transportation company providing express delivery services across Ethiopia.\n\n💼 Positions:\n1. Truck Driver Recruiter\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - Previous experience in customer support, customer service, sales, logistics, or recruitment\n   - Experience with Excel, Google Sheets, Gmail, and CRM systems\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 26, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-28T05:05:33.430663Z"
+    },
     {
       "id": "b341d4a2dddbc99f33d3e5f037c789b53eb4e414a4034e0873a3b853c96ab765",
       "company": "Selam Media PLC",
@@ -5584,23 +5602,6 @@
       "contact": "",
       "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: KADISCO General Hospital  \n🏬 About: KADISCO General Hospital is a private healthcare provider delivering comprehensive medical services in Addis Ababa.  \n\n💼 Positions:  \n1. Marketing Officer  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s degree in Marketing, Communications or Business Administration.  \n   - Proven marketing experience, preferably in a healthcare setting.  \n   - Expertise in social media management, SEO and digital ad campaigns.  \n\n📊 Vacancy Count: 1  \n📝 Description: Develops and implements marketing strategies to promote hospital services.  \n📅 Deadline: Sep 20, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T14:23:00.533637Z"
-    },
-    {
-      "id": "e83a5e4420c2f2355b83db3058e6638b9a1f5c7f06ec5a816dd98bffbae530cb",
-      "company": "Dmam Beauty Salon",
-      "about": "A beauty salon in Addis Ababa offering hair, nail and eyelash services.",
-      "positions": [
-        "hair specialist (male)",
-        "nail & eyelash specialist"
-      ],
-      "category": [
-        "Private Sector"
-      ],
-      "deadline": "Sep 13, 2026",
-      "link": "",
-      "contact": "0984854485, Telegram @bezieyasu",
-      "text": "🏷️ Private Sector\n\n🏢 Company: Dmam Beauty Salon  \n🏬 About: A beauty salon in Addis Ababa offering hair, nail and eyelash services.  \n\n💼 Positions:  \n1. Hair Specialist (Male)  \n   📍 Location: Addis Ababa, Fega  \n   🎓 Requirements:  \n   - Minimum 2 years of relevant experience  \n\n2. Nail & Eyelash Specialist  \n   📍 Location: Addis Ababa, Fega  \n   🎓 Requirements:  \n   - Minimum 2 years of relevant experience  \n\n💰 Salary: Negotiable  \n💼 Employment Type: Full‑time  \n📅 Deadline: Sep 13, 2026  \n📞 Contact: 0984854485, Telegram @bezieyasu  \n\n📝 Application Method: Apply via phone or Telegram",
-      "posted": "2026-09-10T14:21:23.800039Z"
     }
   ]
 }
