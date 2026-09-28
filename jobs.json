@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-28T04:49:12.165135Z",
+  "updated": "2026-09-28T04:49:35.340730Z",
   "jobs": [
+    {
+      "id": "c4d90e19381382cea755f881fdb14104ec2adce3d16c382ae1157884a6cfbb53",
+      "company": "Shining Stone International Business PLC",
+      "about": "Shining Stone International Business PLC is a private company operating in the construction and engineering sector in Ethiopia.",
+      "positions": [
+        "Construction Engineering Department Manager"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Executive"
+      ],
+      "deadline": "October 9th, 2026",
+      "link": "",
+      "contact": "shiningstonejob@gmail.com",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Shining Stone International Business PLC\n🏬 About: Shining Stone International Business PLC is a private company operating in the construction and engineering sector in Ethiopia.\n\n💼 Positions:\n1. Construction Engineering Department Manager\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - MSC/BSC degree in Civil Engineering, Construction Technology Management (COTM) or related field\n   - 8 to 12 years of work experience, including at least 2‑3 years in department manager roles\n   - Proven track record in construction industry organizations\n   - Proficiency in MS Project, AutoCAD, Microsoft Office and other design software\n   - Strong leadership, budget forecasting, conflict resolution, and contract negotiation skills\n   - Excellent written and verbal communication\n   - Attention to detail, analytical thinking and problem‑solving abilities\n\n📝 Description: External vacancy announcement for the Construction Engineering Department Manager position.\n\n📅 Deadline: October 9th, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: shiningstonejob@gmail.com",
+      "posted": "2026-09-28T04:49:19.175319Z"
+    },
     {
       "id": "a4aa6e96b9ff73aa8f67e60b5275ff0259c8fc3675d4a9b9df2461902f4bec9d",
       "company": "Bekele Abshiro PLC",
@@ -5531,22 +5550,6 @@
       "contact": "",
       "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Gses General Trading plc  \n🏬 About: A private company engaged in general trading and construction services in Ethiopia.  \n\n💼 Positions:  \n1. Contract Engineer  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - B.Sc in Civil Engineering or Construction Technology & Management  \n   - 4 years experience in building construction  \n   - Mid‑level (3‑5 years) experience  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Oct 01, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:53:43.762951Z"
-    },
-    {
-      "id": "b4e214ecba3fb3e01364d0ed0fedc4a7b1a05c2d9d997157d273c9b46a5e1189",
-      "company": "Gses General Trading plc",
-      "about": "A private Ethiopian company engaged in general trading and construction services.",
-      "positions": [
-        "senior office engineer"
-      ],
-      "category": [
-        "Construction & Engineering"
-      ],
-      "deadline": "Oct 01, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Gses General Trading plc\n🏬 About: A private Ethiopian company engaged in general trading and construction services.\n\n💼 Positions:\n1. Senior Office Engineer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - B.Sc. in Civil Engineering or Construction Technology & Management\n   - Minimum 7 years experience in building construction\n   - Proven senior‑level project oversight skills\n\n📅 Deadline: Oct 01, 2026\n📊 Vacancy Count: 1\n📝 Description: Oversees office engineering tasks for building projects.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:53:25.185985Z"
     }
   ]
 }
