@@ -1,6 +1,29 @@
 {
-  "updated": "2026-09-28T05:00:24.311851Z",
+  "updated": "2026-09-28T05:00:36.268452Z",
   "jobs": [
+    {
+      "id": "ba12420378cd50b42d2ae75640d3152159f607971bc55fbe095761e18ddc74b2",
+      "company": "TalentConnect",
+      "about": "TalentConnect is a research and recruitment service that connects job seekers with employment opportunities in Ethiopia.",
+      "positions": [
+        "Marketing",
+        "Accounting",
+        "Reception",
+        "Secretarial / Writing Services",
+        "Human Resources Management",
+        "Sales and related positions"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "",
+      "link": "https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
+      "contact": "",
+      "application_method": "Apply by filling out the Google Form",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/ba12420378cd50b42d2ae75640d3152159f607971bc55fbe095761e18ddc74b2.jpg",
+      "text": "🏷️ Private Sector\n\n🏢 Company: TalentConnect\n🏬 About: TalentConnect is a research and recruitment service that connects job seekers with employment opportunities in Ethiopia.\n\n💼 Positions:\n1. Marketing\n2. Accounting\n3. Reception\n4. Secretarial / Writing Services\n5. Human Resources Management\n6. Sales and related positions\n\n📝 Description: TalentConnect is conducting a research study to better understand job seekers and facilitate their entry into the workforce, inviting participants from various fields.\n\n📝 Application Method: Apply by filling out the Google Form\n🔗 Link: https://accounts.google.com/AccountChooser?continue=https://docs.google.com/forms/d/e/1FAIpQLSdFp9CT5SjgYN9bkjTuxuypljyQ3g3xvabJ3oZ5ti8xAl8AWQ/viewform&service=wise",
+      "posted": "2026-09-28T05:00:34.401124Z"
+    },
     {
       "id": "79d5abbb5a64bc4ba0083c3033314dfd36dbfe784eed4fb1a32a0f941369e5ba",
       "company": "Mega Lab PLC",
@@ -5544,23 +5567,6 @@
       "contact": "",
       "text": "🏷️ Logistics & Supply Chain | Private Sector\n\n🏢 Company: Repi Soap & Detergent PLC  \n🏬 About: A manufacturing company producing soaps and detergents in Ethiopia.  \n\n💼 Positions:  \n1. Project Procurement Head  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BA in Logistics, Supply Chain, Business or related field  \n   - Minimum 5 years relevant experience  \n   - At least 2 years as Senior Procurement Officer in FMCG  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Oct 10, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:56:05.684421Z"
-    },
-    {
-      "id": "fe5e724172ff18bfc5aa6e272899532f0a5340215433c0d295b7a461a7d5f723",
-      "company": "Hareg Import and Export PLC",
-      "about": "A private company operating in the import and export sector in Ethiopia.",
-      "positions": [
-        "junior sales engineer"
-      ],
-      "category": [
-        "Fresh Graduate",
-        "Construction & Engineering"
-      ],
-      "deadline": "Sep 22, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Fresh Graduate | Construction & Engineering\n\n🏢 Company: Hareg Import and Export PLC  \n🏬 About: A private company operating in the import and export sector in Ethiopia.  \n\n💼 Positions:  \n1. Junior Sales Engineer  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BSc in Electromechanical Engineering (graduated ≤ 2024)  \n   - No prior work experience required  \n   - Entry‑level candidate  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Sep 22, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:55:47.414754Z"
     }
   ]
 }
