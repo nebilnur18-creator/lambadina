@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-28T05:03:37.241000Z",
+  "updated": "2026-09-28T05:03:49.978275Z",
   "jobs": [
+    {
+      "id": "65bdfab0cfbeac0dce8f6beae7622fe9ca6e392d1dd814d595bdc7519526456d",
+      "company": "Droga Pharma PLC",
+      "about": "A pharmaceutical company operating in Ethiopia, manufacturing and distributing medicines.",
+      "positions": [
+        "Medical Representative"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "Oct 10, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/65bdfab0cfbeac0dce8f6beae7622fe9ca6e392d1dd814d595bdc7519526456d.jpg",
+      "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Droga Pharma PLC\n🏬 About: A pharmaceutical company operating in Ethiopia, manufacturing and distributing medicines.\n\n💼 Positions:\n1. Medical Representative\n   📍 Location: Hawassa\n   🎓 Requirements:\n   - BSc Degree in Pharmacy\n   - Minimum three years of relevant experience as a Medical Representative\n   - Must obtain a promoter license from EFDA\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 10, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-28T05:03:47.574249Z"
+    },
     {
       "id": "c3ad838aafdb884988f02e73ccc565b7ae5ecbaefc015898a72bc8a3bd00601c",
       "company": "Metemamen Micro Financing Institution S.C",
@@ -5569,23 +5587,6 @@
       "contact": "",
       "text": "🏷️ Education\n\n🏢 Company: Mag School  \n🏬 About: Mag School is a private institution providing kindergarten and primary education in Ethiopia.  \n\n💼 Positions:  \n1️⃣ Kindergarten & Primary School Main Teacher (Female)  \n   📍 Location: Addis Ababa (Estimated)  \n   🎓 Requirements:  \n   - Minimum 2 years teaching experience  \n   - Fluent in English  \n   - Relevant qualification in Education  \n\n2️⃣ Assistant Teacher (Kindergarten & Primary) (Female)  \n   📍 Location: Addis Ababa (Estimated)  \n   🎓 Requirements:  \n   - No prior teaching experience required; fresh graduates encouraged  \n   - Good English communication skills  \n\n📅 Deadline: Oct 11, 2026  \n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:59:25.830160Z"
-    },
-    {
-      "id": "279d6dd16ef8d0096317f235d04da99a39b5c77a757da99e650c88534ebee470",
-      "company": "Medecins Sans Frontieres‑Belgium (MSF‑Belgium)",
-      "about": "An international humanitarian NGO delivering emergency medical assistance worldwide.",
-      "positions": [
-        "specialized technician – coordination"
-      ],
-      "category": [
-        "NGO / International",
-        "Construction & Engineering"
-      ],
-      "deadline": "Sep 16 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Logistics & Supply Chain\n\n🏢 Company: Medecins Sans Frontieres‑Belgium (MSF‑Belgium)  \n🏬 About: An international humanitarian NGO delivering emergency medical assistance worldwide.\n\n💼 Positions:\n1. Specialized Technician – Coordination  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:\n   - Diploma in Electrical, Mechanical or Electromechanical Engineering (or related degree)  \n   - Minimum 2 years hands‑on facilities maintenance, electrical installation & basic plumbing  \n   - Proficient English (speaking, writing, reading)\n\n📊 Vacancy Count: 1  \n💼 Employment Type: Junior Level (1‑3 years)  \n📅 Deadline: Sep 16 2026  \n📝 Description: Coordinates technical maintenance and infrastructure support for MSF operations.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:59:12.260077Z"
     }
   ]
 }
