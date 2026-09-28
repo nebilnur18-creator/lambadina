@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-28T05:00:36.268452Z",
+  "updated": "2026-09-28T05:00:47.352910Z",
   "jobs": [
+    {
+      "id": "06cbddec682276807802232e8e4e158ac95eff1a8bf0df9afeb9ba9cab6de451",
+      "company": "Wajee General Hospital",
+      "about": "Wajee General Hospital is a healthcare facility delivering medical services in Ethiopia.",
+      "positions": [
+        "Laboratory Technologist"
+      ],
+      "category": [
+        "Healthcare"
+      ],
+      "deadline": "October 4, 2026",
+      "link": "",
+      "contact": "jobs@wajeehospital.com",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Healthcare\n\n🏢 Company: Wajee General Hospital\n🏬 About: Wajee General Hospital is a healthcare facility delivering medical services in Ethiopia.\n\n💼 Positions:\n1. Laboratory Technologist\n   📍 Location: Holeta\n   🎓 Requirements:\n   - Bachelor’s Degree in Laboratory Technology or Medical Laboratory Science\n   - Relevant work experience (0 years acceptable)\n\n📊 Vacancy Count: 1\n📅 Deadline: October 4, 2026\n\n📝 Description:\n- Perform routine and advanced diagnostic tests in clinical chemistry, hematology, parasitology, urinalysis, serology, microbiology, and immunohematology.\n- Accurately analyze laboratory test results and ensure timely processing of samples.\n- Collect, label, and prepare patient specimens, maintaining proper preservation, storage, and transportation.\n- Implement daily quality control and assurance measures in line with national and international standards.\n- Participate in internal and external quality assessment programs.\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: jobs@wajeehospital.com",
+      "posted": "2026-09-28T05:00:45.047553Z"
+    },
     {
       "id": "ba12420378cd50b42d2ae75640d3152159f607971bc55fbe095761e18ddc74b2",
       "company": "TalentConnect",
@@ -5551,22 +5569,6 @@
       "contact": "",
       "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: Hilmen Aluminum plc  \n🏬 About: A private company operating in the aluminum manufacturing sector in Ethiopia.  \n\n💼 Positions:  \n1. Junior Accountant  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - Bachelor’s degree in Accounting or Finance  \n   - Proficiency in Microsoft Excel and accounting software  \n   - Strong attention to detail and accuracy  \n\n📅 Deadline: Oct 10, 2026  \n📊 Vacancy Count: 1  \n\n📝 Description: Performs accounting tasks and supports financial reporting.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:56:52.648795Z"
-    },
-    {
-      "id": "0b9ac65789164e84d4c0816fe659aca5e849d631c9b24424c8bba463a3f174b8",
-      "company": "Repi Soap & Detergent PLC",
-      "about": "A manufacturing company producing soaps and detergents in Ethiopia.",
-      "positions": [
-        "project procurement head"
-      ],
-      "category": [
-        "Logistics & Supply Chain"
-      ],
-      "deadline": "Oct 10, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Logistics & Supply Chain | Private Sector\n\n🏢 Company: Repi Soap & Detergent PLC  \n🏬 About: A manufacturing company producing soaps and detergents in Ethiopia.  \n\n💼 Positions:  \n1. Project Procurement Head  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BA in Logistics, Supply Chain, Business or related field  \n   - Minimum 5 years relevant experience  \n   - At least 2 years as Senior Procurement Officer in FMCG  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Oct 10, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:56:05.684421Z"
     }
   ]
 }
