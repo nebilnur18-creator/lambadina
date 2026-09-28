@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-28T04:50:06.998536Z",
+  "updated": "2026-09-28T05:00:14.807207Z",
   "jobs": [
+    {
+      "id": "11d1662154f54bf70328a89a96f84945d4dc8609a624cd0a6fa9c9be396557a5",
+      "company": "Saglan Wajee General Hospital",
+      "about": "Saglan Wajee General Hospital is a private healthcare facility providing medical services to the community in Holeta, Ethiopia.",
+      "positions": [
+        "Call Center Agent"
+      ],
+      "category": [
+        "Government",
+        "Healthcare"
+      ],
+      "deadline": "September 30, 2026",
+      "link": "",
+      "contact": "jobs@wajeehospital.com",
+      "application_method": "Send your CV/application via email",
+      "image": null,
+      "text": "🏷️ Healthcare\n\n🏢 Company: Saglan Wajee General Hospital\n🏬 About: Saglan Wajee General Hospital is a private healthcare facility providing medical services to the community in Holeta, Ethiopia.\n\n💼 Positions:\n1. Call Center Agent\n   📍 Location: Holeta\n   🎓 Requirements:\n   - Bachelor’s Degree in Nursing from a recognized government university\n   - Minimum CGPA of 3.00\n   - Proficiency in Afaan Oromo and Amharic\n   - Ability to handle incoming calls, inquiries, and service requests professionally\n   - Capability to schedule, confirm, reschedule, and cancel patient appointments\n   - Basic understanding of health concerns and ability to direct patients appropriately\n   - Skill in providing basic health information within the approved scope of practice\n   - Ability to identify urgent cases and escalate to clinical teams\n   - Strong follow‑up and complaint handling skills\n\n📍 Location: Holeta\n💰 Salary: 16483.00\n📝 Description: The Call Center Agent will manage patient communications, provide accurate information about hospital services, schedule appointments, and ensure timely escalation of urgent health issues.\n📊 Vacancy Count: 2\n📅 Deadline: September 30, 2026\n\n📝 Application Method: Send your CV/application via email\n📞 Contact: jobs@wajeehospital.com",
+      "posted": "2026-09-28T05:00:11.258681Z"
+    },
     {
       "id": "e817fcd01761d6627522fd37424041f5e31c3634d5c82398f8331fbe05f9e57a",
       "company": "Dodai Manufacturing",
@@ -5543,23 +5562,6 @@
       "contact": "",
       "text": "🏷️ Logistics & Supply Chain | Executive\n\n🏢 Company: Hareg Import and Export PLC  \n🏬 About: A private company engaged in import and export trading in Ethiopia.  \n\n💼 Positions:  \n1. Supply Chain Property Admin. Manager  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - B.Sc. in Mechanical/Electrical Engineering or BA in Supply Chain Management  \n   - Minimum 9 years progressive experience  \n   - Proven leadership at executive level  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Sep 23 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:55:27.642438Z"
-    },
-    {
-      "id": "5147edc06838697616b1a85d7694930c4103f7e6a5cb59b2c5277401407a1f6d",
-      "company": "Hareg Import and Export PLC",
-      "about": "A private company engaged in import and export activities across various sectors in Ethiopia.",
-      "positions": [
-        "senior sales engineer"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Logistics & Supply Chain"
-      ],
-      "deadline": "Sep 22, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Hareg Import and Export PLC  \n🏬 About: A private company engaged in import and export activities across various sectors in Ethiopia.  \n\n💼 Positions:  \n1. Senior Sales Engineer  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BSc in electromechanical/electrical/mechanical engineering  \n   - Minimum 5 years relevant experience  \n   - Proficiency in pump design, solarization, installation & commissioning  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Sep 22, 2026  \n📝 Description: Handles sales engineering, providing pump and solar solutions, installations and client training.\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:55:07.010831Z"
     }
   ]
 }
