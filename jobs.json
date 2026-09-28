@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-28T04:49:35.340730Z",
+  "updated": "2026-09-28T04:49:44.993623Z",
   "jobs": [
+    {
+      "id": "2207dfa3cdc37b3cb13f951034988cd8d63a08b279fe7e76d89673b7f767bcf0",
+      "company": "HST Consulting PLC",
+      "about": "A consulting firm offering human resources and business advisory services in Ethiopia.",
+      "positions": [
+        "Senior HR Officer"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "October 9th, 2026",
+      "link": "",
+      "contact": "",
+      "application_method": "Apply in person — see the full vacancy details above for the address",
+      "image": null,
+      "text": "🏷️ Private Sector\n\n🏢 Company: HST Consulting PLC\n🏬 About: A consulting firm offering human resources and business advisory services in Ethiopia.\n\n💼 Positions:\n1. Senior HR Officer\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Master’s degree in Human Resources Management, Human Resource Development, or a related field\n   - Minimum 7 years of relevant HR experience\n   - Professional HR certification (advantageous)\n   - Excellent verbal and written communication skills\n   - Strong organizational, interpersonal, and problem‑solving abilities\n   - Attention to detail and ability to manage multiple priorities\n   - Ability to handle sensitive information with discretion and maintain confidentiality\n   - Good understanding of Ethiopian labor laws and their practical application\n   - Proficiency in Microsoft Office (Word, Excel, PowerPoint)\n   - Ability to work collaboratively with employees, managers, and leadership\n\n📝 Description: The Senior HR Officer will manage HR functions, ensure compliance with Ethiopian labor regulations, handle confidential matters, and support organizational development through effective communication and collaboration.\n\n📅 Deadline: October 9th, 2026\n\n📝 Application Method: Apply in person — see the full vacancy details above for the address",
+      "posted": "2026-09-28T04:49:42.465510Z"
+    },
     {
       "id": "c4d90e19381382cea755f881fdb14104ec2adce3d16c382ae1157884a6cfbb53",
       "company": "Shining Stone International Business PLC",
@@ -5534,22 +5552,6 @@
       "contact": "",
       "text": "🏷️ Education | Executive\n\n🏢 Company: Mag School  \n🏬 About: Mag School is an educational institution in Ethiopia offering primary and secondary education.  \n\n💼 Positions:  \n1️⃣ Human Resources (HR) Manager  \n📍 Location: Addis Ababa (Estimated)  \n🎓 Requirements: Minimum 5 years of HR experience; experience in a school or educational institution preferred; proven recruitment and staff‑management skills.  \n\n2️⃣ Managing Director  \n📍 Location: Addis Ababa (Estimated)  \n🎓 Requirements: Minimum 10 years experience in the school/education sector; strong leadership and school‑management experience; 8‑12 years overall professional experience.  \n\n📅 Deadline: Oct 10, 2026  \n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-10T09:54:00.922261Z"
-    },
-    {
-      "id": "390a64bb3c0be7693bd42a19601077d117efefa5fd17ed52d0057dcf209d058f",
-      "company": "Gses General Trading plc",
-      "about": "A private company engaged in general trading and construction services in Ethiopia.",
-      "positions": [
-        "contract engineer"
-      ],
-      "category": [
-        "Construction & Engineering"
-      ],
-      "deadline": "Oct 01, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Gses General Trading plc  \n🏬 About: A private company engaged in general trading and construction services in Ethiopia.  \n\n💼 Positions:  \n1. Contract Engineer  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - B.Sc in Civil Engineering or Construction Technology & Management  \n   - 4 years experience in building construction  \n   - Mid‑level (3‑5 years) experience  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Oct 01, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-10T09:53:43.762951Z"
     }
   ]
 }
