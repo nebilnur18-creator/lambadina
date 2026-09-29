@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T05:04:25.891719Z",
+  "updated": "2026-09-29T05:04:39.393621Z",
   "jobs": [
+    {
+      "id": "520bd927e59f7ff75a0dc8beab32fb9cf50908e9e1036dd954cf4408a3a64f10",
+      "company": "Aser Construction PLC",
+      "about": "A private Ethiopian construction firm delivering infrastructure projects such as roads, water supply, and sewer systems.",
+      "positions": [],
+      "category": [
+        "Construction & Engineering",
+        "Executive"
+      ],
+      "deadline": "Oct 29, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/520bd927e59f7ff75a0dc8beab32fb9cf50908e9e1036dd954cf4408a3a64f10.jpg",
+      "text": "🏷️ Construction & Engineering | Executive\n\n🏢 Company: Aser Construction PLC  \n🏬 About: A private Ethiopian construction firm delivering infrastructure projects such as roads, water supply, and sewer systems.  \n\n💼 Positions:  \n1️⃣ Cost and Tender Engineer  \n   📍 Location: Addis Ababa (Estimated)  \n   🎓 Requirements:  \n   - BSc in Civil Engineering, Construction Technology, or related fields  \n   - 8‑10 years of experience in tender preparation and quantity surveying for road, water supply, and sewer line works  \n   📊 Vacancy Count: 1  \n\n2️⃣ Contract Engineer  \n   📍 Location: Addis Ababa (Estimated)  \n   🎓 Requirements:  \n   - BSc in Civil Engineering, Construction Technology, or related fields  \n   - 8‑10 years of relevant experience in contract engineering and contract administration of road, water supply, and sewer line works  \n   📊 Vacancy Count: 2  \n\n📅 Deadline: Oct 29, 2026  \n📝 Application Method: Browse open positions on https://ethiojobs.net  \n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-29T05:04:36.353854Z"
+    },
     {
       "id": "4ff7330f267c58b83db349ec067bc277e6fa642343459ee4eca11e82acf8b8ce",
       "company": "Kromoto Manufacturing PLC",
@@ -5610,22 +5627,6 @@
       "contact": "",
       "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: AZ PLC  \n🏬 About: A private company operating in Ethiopia.  \n\n💼 Positions:  \n1. Senior Cost Accountant  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BA in Accounting  \n   - 3+ years cost accounting experience  \n   - Proficiency in Peachtree & MS Office  \n\n📝 Description: Handles cost allocation, inventory control, and financial reporting.  \n📊 Vacancy Count: 1  \n📅 Deadline: Sep 19, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-11T16:55:06.557976Z"
-    },
-    {
-      "id": "3c794cb9274880ba64e3a91bf494e40469d006c263d7a721d0f575a44e623a19",
-      "company": "Addis Ababa Silk Road General Hospital",
-      "about": "A private hospital delivering general medical services in Addis Ababa.",
-      "positions": [
-        "or nurse / clinical nurse"
-      ],
-      "category": [
-        "Healthcare"
-      ],
-      "deadline": "Sep 20 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Healthcare\n\n🏢 Company: Addis Ababa Silk Road General Hospital  \n🏬 About: A private hospital delivering general medical services in Addis Ababa.  \n\n💼 Positions:  \n1. OR Nurse / Clinical Nurse  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BSc in Nursing  \n   - Valid professional license & ≥2 years experience  \n   - BLS and ACLS certification  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Sep 20 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-11T16:51:48.764927Z"
     }
   ]
 }
