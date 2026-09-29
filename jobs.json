@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-29T05:04:39.393621Z",
+  "updated": "2026-09-29T05:04:57.062006Z",
   "jobs": [
+    {
+      "id": "8dcb407cdab21d3290206e03cfe700e86da9e302dbbd428fa17a15f10255607c",
+      "company": "Desta PLC",
+      "about": "Desta PLC is a private company operating in the manufacturing sector in Ethiopia.",
+      "positions": [
+        "Accountant"
+      ],
+      "category": [
+        "Private Sector"
+      ],
+      "deadline": "Oct 15, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/8dcb407cdab21d3290206e03cfe700e86da9e302dbbd428fa17a15f10255607c.jpg",
+      "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: Desta PLC\n🏬 About: Desta PLC is a private company operating in the manufacturing sector in Ethiopia.\n\n💼 Positions:\n1. Accountant\n   📍 Location: Addis Ababa\n   🎓 Requirements:\n   - Bachelor’s degree in Accounting, Finance, or a related field\n   - 2+ years of proven experience as an Accountant or in a similar role\n   - Experience with manufacturing business is a plus\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 15, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-29T05:04:51.729535Z"
+    },
     {
       "id": "520bd927e59f7ff75a0dc8beab32fb9cf50908e9e1036dd954cf4408a3a64f10",
       "company": "Aser Construction PLC",
@@ -5611,22 +5629,6 @@
       "contact": "",
       "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: AZ PLC  \n🏬 About: A private company operating in the manufacturing sector in Ethiopia.  \n\n💼 Positions:  \n1. Senior Accountant  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BA in Accounting  \n   - 3+ years experience, preferably in manufacturing  \n   - Payroll, tax, compliance & financial‑statement preparation  \n\n📝 Description: Handles payroll, taxes, government compliance and prepares timely financial statements.  \n📊 Vacancy Count: 1  \n📅 Deadline: Sep 19, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-11T16:59:12.338968Z"
-    },
-    {
-      "id": "3c04ce716572439b9a8a1717829fc86ef1c1e5d50192fee0146fc5e80ec25f54",
-      "company": "AZ PLC",
-      "about": "A private company operating in Ethiopia.",
-      "positions": [
-        "senior cost accountant"
-      ],
-      "category": [
-        "Private Sector"
-      ],
-      "deadline": "Sep 19, 2026",
-      "link": "https://ethiojobs.net",
-      "contact": "",
-      "text": "🏷️ Banking & Finance | Private Sector\n\n🏢 Company: AZ PLC  \n🏬 About: A private company operating in Ethiopia.  \n\n💼 Positions:  \n1. Senior Cost Accountant  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BA in Accounting  \n   - 3+ years cost accounting experience  \n   - Proficiency in Peachtree & MS Office  \n\n📝 Description: Handles cost allocation, inventory control, and financial reporting.  \n📊 Vacancy Count: 1  \n📅 Deadline: Sep 19, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
-      "posted": "2026-09-11T16:55:06.557976Z"
     }
   ]
 }
