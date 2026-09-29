@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-29T05:03:21.963416Z",
+  "updated": "2026-09-29T05:03:40.760198Z",
   "jobs": [
+    {
+      "id": "3d6eedc96305377ec970a0479ba68a4054d856021c0b72eb3476f2c052b97ec1",
+      "company": "The First Group Hospitality",
+      "about": "The First Group Hospitality is a hospitality company operating hotels in Ethiopia.",
+      "positions": [
+        "Hotel Manager"
+      ],
+      "category": [
+        "Healthcare",
+        "Executive"
+      ],
+      "deadline": "Oct 23, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/3d6eedc96305377ec970a0479ba68a4054d856021c0b72eb3476f2c052b97ec1.jpg",
+      "text": "🏷️ Executive | Private Sector\n\n🏢 Company: The First Group Hospitality\n🏬 About: The First Group Hospitality is a hospitality company operating hotels in Ethiopia.\n\n💼 Positions:\n1. Hotel Manager\n   📍 Location: Jimma\n   🎓 Requirements:\n   - Bachelor’s degree in Hospitality Management, Business Administration, or a related field\n   - Minimum of 5 years senior management experience in the hospitality industry\n   - Strong leadership, communication, and decision‑making skills\n   - Proven experience in hotel operations, financial management, and team development\n   - Excellent customer service and problem‑solving abilities\n   - Proficiency in hotel management systems and Microsoft Office applications\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 23, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-29T05:03:31.906251Z"
+    },
     {
       "id": "f1e8b33fc9b7ed306ed2b87c69143c43345fff0614a654980bae6342a036ba16",
       "company": "Sacon Construction and Trading PLC",
@@ -5604,23 +5623,6 @@
       "contact": "",
       "text": "🏷️ Fresh Graduate | Private Sector\n\n🏢 Company: Hilmen Aluminum plc  \n🏬 About: Hilmen Aluminum plc is a private company operating in the aluminum manufacturing sector in Ethiopia.  \n\n💼 Positions:  \n1. Junior Accountant  \n   🎓 Requirements:  \n   - Bachelor’s degree in Accounting, Finance, or related field  \n\n📝 Description: Entry‑level accounting role handling financial records and reporting.  \n📅 Deadline: October 10th, 2026  \n\n📝 Application Method: Apply via source job page  \n🔗 Link: https://elelanajobs.com/2026/09/10/hilmen-aluminum-plc/",
       "posted": "2026-09-11T16:44:30.498075Z"
-    },
-    {
-      "id": "4055c3905839826d61e3908ae33ba6832ffd26cf9767beaed6d5f6a2939acda1",
-      "company": "Ethiopian Skylight Hotel",
-      "about": "A hotel operating in Ethiopia’s hospitality sector, offering accommodation and guest services.",
-      "positions": [
-        "it officer"
-      ],
-      "category": [
-        "Construction & Engineering",
-        "Technology & IT"
-      ],
-      "deadline": "September 17, 2026",
-      "link": "https://effoysira.com/ethiopian-skylight-job-vacancy/",
-      "contact": "",
-      "text": "🏷️ Private Sector\n\n🏢 Company: Ethiopian Skylight Hotel  \n🏬 About: A hotel operating in Ethiopia’s hospitality sector, offering accommodation and guest services.  \n\n💼 Positions:  \n1. IT Officer  \n   🎓 Requirements:  \n   - BSc in Computer Science/IT or related field with ≥1 year experience, or Diploma with ≥3 years experience.  \n   - Knowledge of computer maintenance, networking, and software engineering.  \n   - Ability to manage hotel IT systems.  \n\n📅 Deadline: September 17, 2026  \n📝 Application Method: Apply via source job page  \n🔗 Link: https://effoysira.com/ethiopian-skylight-job-vacancy/",
-      "posted": "2026-09-11T16:41:35.206123Z"
     }
   ]
 }
