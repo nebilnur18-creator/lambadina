@@ -1,6 +1,25 @@
 {
-  "updated": "2026-09-29T05:05:51.643155Z",
+  "updated": "2026-09-29T05:06:06.778420Z",
   "jobs": [
+    {
+      "id": "676ff5d81d751e18cfd6af48fc37a1c03ba7c5660586dbef47587f8a213b173f",
+      "company": "Moti Engineering PLC",
+      "about": "Moti Engineering PLC is a private engineering firm in Ethiopia that provides engineering solutions and services.",
+      "positions": [
+        "Senior Pre Sales Engineer"
+      ],
+      "category": [
+        "Construction & Engineering",
+        "Technology & IT"
+      ],
+      "deadline": "Oct 11, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/676ff5d81d751e18cfd6af48fc37a1c03ba7c5660586dbef47587f8a213b173f.jpg",
+      "text": "🏷️ Technology & IT | Private Sector\n\n🏢 Company: Moti Engineering PLC\n🏬 About: Moti Engineering PLC is a private engineering firm in Ethiopia that provides engineering solutions and services.\n\n💼 Positions:\n1. Senior Pre Sales Engineer\n   📍 Location: Addis Ababa, Ethiopia\n   🎓 Requirements:\n   - BSc in Computer Science or related IT field; additional sales certifications are a plus\n   - 3-5 years experience as a Presales Engineer\n   - Strong knowledge of data center power, cooling, physical security, structured cabling, and DCIM solutions\n   - Excellent communication, presentation, proposal‑writing skills, and teamwork\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 11, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-29T05:06:03.988444Z"
+    },
     {
       "id": "9c6c8f267e5b2ee38777e7a5a417a519e033dd42bc4359f417bed35ddd4f3904",
       "company": "Lamrot Juice and Burger",
@@ -5619,22 +5638,6 @@
       "contact": "",
       "text": "🏷️ Healthcare | Private Sector\n\n🏢 Company: Dream Liyana Healthcare PLC  \n🏬 About: A private healthcare provider operating the Dream Orthopedics, Trauma and Spine Center, delivering patient care and a collaborative work environment.  \n\n💼 Positions:  \n1. Hospital Receptionist  \n   📍 Location: Addis Ababa (Estimated)  \n   🎓 Requirements:  \n   - Diploma or Level IV in IT, Accounting, office management or related field  \n   - 0‑1 year experience; hospital/clinic reception preferred  \n   - Excellent communication and interpersonal skills  \n\n💰 Salary: Competitive and Attractive  \n📝 Description: First point of contact handling patient flow, appointments and front‑desk duties while ensuring confidentiality.  \n📅 Deadline: September 17, 2026  \n📝 Application Method: Submit CV via Telegram to https://t.me/dream_admin_hr  \n🔗 Link: https://ethiojobshub.com/dream-liyana-healthcare-3/",
       "posted": "2026-09-12T11:45:17.031753Z"
-    },
-    {
-      "id": "c29f55b12ce2000b143f78eff7ad36afa836ba8df79f257db53e6ab8fbb53fe2",
-      "company": "EffoySira.com",
-      "about": "An online portal aggregating fresh graduate and entry‑level job vacancies across Ethiopia.",
-      "positions": [
-        "various fresh graduate positions"
-      ],
-      "category": [
-        "Private Sector"
-      ],
-      "deadline": "",
-      "link": "https://effoysira.com",
-      "contact": "",
-      "text": "🏷️ Fresh Graduate\n\n🏢 Company: EffoySira.com\n🏬 About: An online portal aggregating fresh graduate and entry‑level job vacancies across Ethiopia.\n\n💼 Positions:\n1. Various Fresh Graduate Positions\n   🎓 Requirements:\n   - Relevant degree\n   - Strong communication skills\n   - Willingness to learn\n\n📊 Vacancy Count: Multiple\n📝 Description: Browse the site for detailed listings and apply directly.\n📝 Application Method: Apply via source job page\n🔗 Link: https://effoysira.com",
-      "posted": "2026-09-12T05:38:52.260328Z"
     }
   ]
 }
