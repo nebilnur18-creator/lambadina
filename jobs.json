@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-29T05:04:10.047092Z",
+  "updated": "2026-09-29T05:04:25.891719Z",
   "jobs": [
+    {
+      "id": "4ff7330f267c58b83db349ec067bc277e6fa642343459ee4eca11e82acf8b8ce",
+      "company": "Kromoto Manufacturing PLC",
+      "about": "Kromoto Manufacturing PLC is a private Ethiopian company specializing in the production of plastic products through injection molding and related manufacturing processes.",
+      "positions": [
+        "Injection Molding Machine Technical Expert"
+      ],
+      "category": [
+        "Construction & Engineering"
+      ],
+      "deadline": "Oct 09, 2026",
+      "link": "https://ethiojobs.net",
+      "contact": "",
+      "application_method": "Browse open positions on https://ethiojobs.net",
+      "image": "https://raw.githubusercontent.com/nebilnur18-creator/lambadina/main/logos/4ff7330f267c58b83db349ec067bc277e6fa642343459ee4eca11e82acf8b8ce.jpg",
+      "text": "🏷️ Private Sector | Construction & Engineering\n\n🏢 Company: Kromoto Manufacturing PLC\n🏬 About: Kromoto Manufacturing PLC is a private Ethiopian company specializing in the production of plastic products through injection molding and related manufacturing processes.\n\n💼 Positions:\n1. Injection Molding Machine Technical Expert\n   📍 Location: Dire Dawa\n   🎓 Requirements:\n   - Extensive knowledge of preform and injection molding machines\n   - Minimum six years of relevant work experience\n\n📊 Vacancy Count: 1\n📅 Deadline: Oct 09, 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
+      "posted": "2026-09-29T05:04:22.509358Z"
+    },
     {
       "id": "2e710ce02d045bff12a2a6ef72b9037b722f7a10f666cd0846813d3f567f4f31",
       "company": "Temer Properties",
@@ -5608,23 +5626,6 @@
       "contact": "",
       "text": "🏷️ Healthcare\n\n🏢 Company: Addis Ababa Silk Road General Hospital  \n🏬 About: A private hospital delivering general medical services in Addis Ababa.  \n\n💼 Positions:  \n1. OR Nurse / Clinical Nurse  \n   📍 Location: Addis Ababa  \n   🎓 Requirements:  \n   - BSc in Nursing  \n   - Valid professional license & ≥2 years experience  \n   - BLS and ACLS certification  \n\n📊 Vacancy Count: 1  \n📅 Deadline: Sep 20 2026\n\n📝 Application Method: Browse open positions on https://ethiojobs.net\n🔗 Link: https://ethiojobs.net",
       "posted": "2026-09-11T16:51:48.764927Z"
-    },
-    {
-      "id": "a18f5ba12285666ca622e4da0db3c6baebaa75bb1dbeca98568065d65529f9fa",
-      "company": "Hahu Jobs",
-      "about": "A private Ethiopian company offering construction and culinary roles.",
-      "positions": [
-        "mason",
-        "cook"
-      ],
-      "category": [
-        "Private Sector"
-      ],
-      "deadline": "",
-      "link": "https://www.hahu.jobs/jobs/6a9e69edfa2074240b0946bf",
-      "contact": "",
-      "text": "🏷️ Construction & Engineering | Private Sector\n\n🏢 Company: Hahu Jobs  \n🏬 About: A private Ethiopian company offering construction and culinary roles.  \n\n💼 Positions:  \n1. Mason  \n   📍 Location: Addis Ababa (Estimated)  \n\n2. Cook  \n   📍 Location: Addis Ababa (Estimated)  \n\n📍 Location: Addis Ababa (Estimated)  \n📝 Description: Seasonal work for the festive period.  \n\n📝 Application Method: Apply via source job page  \n🔗 Link: https://www.hahu.jobs/jobs/6a9e69edfa2074240b0946bf",
-      "posted": "2026-09-11T16:48:48.167646Z"
     }
   ]
 }
