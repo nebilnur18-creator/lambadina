@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>For Employers — Lambadina</title>
+<meta name="description" content="Post your job opportunity on Lambadina and reach job seekers across Ethiopia.">
+<style>
+:root{
+ --bg:#030a13;--bg2:#061321;--panel:#081b2c;--panel2:#0b2237;--line:#17364e;
+ --text:#f4f8fc;--muted:#8fa7bb;--blue:#24a9ff;--blue2:#0878c9;--orange:#ff9e2c;
+ --orange2:#ffbd5a;--green:#43d49a;--danger:#ff6b75;--radius:18px;
+}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:
+radial-gradient(circle at 78% 5%,rgba(25,112,180,.24),transparent 28%),
+radial-gradient(circle at 15% 35%,rgba(255,142,36,.08),transparent 25%),var(--bg);
+color:var(--text);font:15px/1.55 Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+a{color:inherit;text-decoration:none}button,input,select{font:inherit}button{cursor:pointer}
+.container{width:min(1240px,calc(100% - 36px));margin:auto}.topline{height:3px;background:linear-gradient(90deg,var(--orange),var(--blue),var(--orange))}
+header{position:sticky;top:0;z-index:50;background:rgba(3,10,19,.82);backdrop-filter:blur(18px);border-bottom:1px solid rgba(100,160,200,.12)}
+.nav{height:76px;display:flex;align-items:center;gap:30px}.brand img{width:154px;display:block}.navlinks{display:flex;gap:25px;margin-left:auto}.navlinks a{color:#b7c8d7;font-weight:650}.navlinks a:hover,.navlinks a.active{color:#fff}.navlinks a.active:after{content:"";display:block;height:2px;background:var(--orange);margin-top:7px;border-radius:9px}
+.nav-actions{display:flex;gap:10px;align-items:center}.iconbtn{width:40px;height:40px;border-radius:12px;border:1px solid var(--line);background:var(--panel2);display:grid;place-items:center;color:#bcd0de}
+.btn{padding:12px 20px;border-radius:12px;font-weight:750;display:inline-flex;align-items:center;gap:8px;border:0}
+.ghost{background:var(--panel2);border:1px solid var(--line);color:#dfeaf2}
+.primary{background:linear-gradient(135deg,var(--orange),#ff7c19);color:#07111b;box-shadow:0 10px 24px rgba(255,145,37,.25)}
+.menu{display:none}
+.section{padding:78px 0}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;background:var(--panel2);border:1px solid var(--line);padding:7px 14px;border-radius:99px;font-size:12px;font-weight:750;letter-spacing:.06em;text-transform:uppercase;color:#ffb866}
+.eyebrow:before{content:"";width:7px;height:7px;border-radius:50%;background:var(--orange)}
+h1{font-size:46px;line-height:1.08;margin:16px 0 14px;letter-spacing:-.01em}
+h2{font-size:32px;margin:0 0 10px}
+.section-sub{color:var(--muted);font-size:16px;max-width:620px}
+
+.hero{position:relative;overflow:hidden;border-bottom:1px solid var(--line);padding:70px 0 60px}
+.hero:before{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at 75% 20%,rgba(255,148,39,.14),transparent 30%)}
+.hero-inner{position:relative;max-width:680px}
+.hero-stats{display:flex;gap:34px;margin-top:30px;flex-wrap:wrap}
+.hero-stats b{font-size:26px;display:block}
+.hero-stats span{color:var(--muted);font-size:13px}
+
+.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:40px}
+.plan{border:1px solid var(--line);border-radius:22px;background:linear-gradient(160deg,var(--panel),var(--panel2));padding:30px;display:flex;flex-direction:column;gap:14px}
+.plan.featured{border-color:var(--orange);box-shadow:0 20px 50px rgba(255,145,37,.15);position:relative}
+.plan.featured:before{content:"Most popular";position:absolute;top:-13px;left:24px;background:var(--orange);color:#1a1004;font-size:11px;font-weight:800;padding:4px 12px;border-radius:99px;letter-spacing:.04em;text-transform:uppercase}
+.plan h3{margin:0;font-size:20px}
+.plan .price{font-size:28px;font-weight:800;color:var(--orange2)}
+.plan .price small{font-size:13px;font-weight:600;color:var(--muted)}
+.plan ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px;flex:1}
+.plan li{display:flex;gap:10px;color:#dce8f1;font-size:14px}
+.plan li:before{content:"✓";color:var(--green);font-weight:800}
+
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:36px}
+.step{border:1px solid var(--line);border-radius:18px;background:var(--panel);padding:26px}
+.step .num{font-size:30px;font-weight:800;color:var(--orange2);display:block;margin-bottom:10px}
+
+.cta-band{border:1px solid var(--line);border-radius:23px;padding:45px;background:linear-gradient(120deg,var(--orange) 0%,var(--orange2) 55%,#ffd684 100%);display:flex;justify-content:space-between;gap:25px;align-items:center;flex-wrap:wrap}
+.cta-band h2{color:#1a1004}
+.cta-band p{color:#5c3a06;margin:0;max-width:460px}
+.cta-band .btn-navy{background:linear-gradient(135deg,#0b2237,#050d16);color:#ffd8a0;border:0;font-weight:800}
+
+.faq details{border-top:1px solid var(--line);padding:16px 0}
+.faq summary{cursor:pointer;font-weight:700;list-style:none;display:flex;justify-content:space-between}
+.faq summary::-webkit-details-marker{display:none}
+.faq p{color:var(--muted);margin:10px 0 0}
+
+footer{border-top:1px solid var(--line);padding:50px 0 30px;background:var(--bg2)}
+.footgrid{display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:26px}
+.footgrid h4{color:#fff;margin:0 0 10px;font-size:14px}
+.footgrid a{display:block;color:var(--muted);margin:7px 0;font-size:14px}
+.copyright{margin-top:34px;padding-top:20px;border-top:1px solid var(--line);display:flex;justify-content:space-between;color:#718ca0;font-size:13px;flex-wrap:wrap;gap:10px}
+
+@media(max-width:900px){
+ .navlinks,.nav-actions{display:none}.menu{display:block;margin-left:auto}
+ h1{font-size:34px}
+ .plans,.steps{grid-template-columns:1fr}
+ .cta-band{display:block;text-align:left}
+ .footgrid{grid-template-columns:1fr 1fr}
+ .section{padding:55px 0}
+}
+</style>
+</head>
+<body>
+<div class="topline"></div>
+<header><div class="container nav">
+<a class="brand" href="index.html"><img src="logo.png" alt="Lambadina"></a>
+<nav class="navlinks"><a href="index.html#home">Home</a><a href="jobs.html">Jobs</a><a href="categories.html">Categories</a><a href="why.html">Why Lambadina</a><a class="active" href="employers.html">Employers</a></nav>
+<div class="nav-actions"><a class="btn ghost" href="https://t.me/lambadina_jobs" target="_blank" rel="noopener">Join Telegram</a><a class="btn primary" href="mailto:lambadina@example.com">For Employers</a></div>
+<button class="iconbtn menu">☰</button>
+</div></header>
+
+<section class="hero"><div class="container hero-inner">
+<span class="eyebrow">For employers</span>
+<h1>Put your opportunity in front of people actually looking.</h1>
+<p class="section-sub">Lambadina reaches job seekers across Ethiopia through our website and our active Telegram channel — people who are searching right now, not scrolling past.</p>
+<div class="hero-stats">
+ <div><b id="statJobs">300+</b><span>Opportunity records</span></div>
+ <div><b id="statCompanies">213+</b><span>Companies & organizations</span></div>
+ <div><b>10+</b><span>Career categories</span></div>
+</div>
+<div style="margin-top:30px;display:flex;gap:12px;flex-wrap:wrap">
+ <a class="btn primary" href="mailto:lambadina@example.com">Post an opportunity →</a>
+ <a class="btn ghost" href="https://t.me/lambadina_jobs" target="_blank" rel="noopener">Message us on Telegram</a>
+</div>
+</div></section>
+
+<section class="section"><div class="container">
+<span class="eyebrow">Plans</span>
+<h2 style="margin-top:14px">Choose how your opportunity reaches people</h2>
+<p class="section-sub">Every plan includes a clean, detailed job listing on the website. Pricing is set per posting — reach out and we'll confirm the right fit for your opportunity.</p>
+<div class="plans">
+ <div class="plan">
+  <h3>Standard Listing</h3>
+  <div class="price">Contact us<small><br>per posting</small></div>
+  <ul>
+   <li>Full listing on the website</li>
+   <li>Included in category & search results</li>
+   <li>Posted to our Telegram channel</li>
+   <li>Live until your deadline passes</li>
+  </ul>
+  <a class="btn ghost" href="mailto:lambadina@example.com">Get started →</a>
+ </div>
+ <div class="plan featured">
+  <h3>Featured Listing</h3>
+  <div class="price">Contact us<small><br>per posting</small></div>
+  <ul>
+   <li>Everything in Standard</li>
+   <li>Priority placement in search results</li>
+   <li>Highlighted card on the homepage</li>
+   <li>Pinned post in the Telegram channel</li>
+  </ul>
+  <a class="btn primary" href="mailto:lambadina@example.com">Get started →</a>
+ </div>
+ <div class="plan">
+  <h3>Partner Organization</h3>
+  <div class="price">Contact us<small><br>monthly</small></div>
+  <ul>
+   <li>Multiple postings per month</li>
+   <li>Your company logo on listings</li>
+   <li>Early access to new features</li>
+   <li>A dedicated contact for your account</li>
+  </ul>
+  <a class="btn ghost" href="mailto:lambadina@example.com">Talk to us →</a>
+ </div>
+</div>
+</div></section>
+
+<section class="section" style="background:var(--bg2);border-top:1px solid var(--line);border-bottom:1px solid var(--line)"><div class="container">
+<span class="eyebrow">How it works</span>
+<h2 style="margin-top:14px">From message to published listing</h2>
+<div class="steps">
+ <div class="step"><span class="num">01</span><h3>Send us the details</h3><p class="section-sub">Message us on Telegram or email with the role, requirements, and how candidates should apply.</p></div>
+ <div class="step"><span class="num">02</span><h3>We format and confirm</h3><p class="section-sub">We put it in a clean, consistent listing format and confirm it with you before it goes live.</p></div>
+ <div class="step"><span class="num">03</span><h3>It goes live</h3><p class="section-sub">Your opportunity appears on the website and our Telegram channel, visible to active job seekers.</p></div>
+</div>
+</div></section>
+
+<section class="section"><div class="container">
+<span class="eyebrow">Common questions</span>
+<h2 style="margin-top:14px">Employer FAQ</h2>
+<div class="faq" style="margin-top:20px">
+<details open><summary>How long does a listing stay live?<span>+</span></summary><p>Until the deadline you provide passes. You can also ask us to take it down earlier if the position is filled.</p></details>
+<details><summary>Can I update a listing after it's posted?<span>+</span></summary><p>Yes — just message us with the changes and we'll update it.</p></details>
+<details><summary>Do you write the listing for us?<span>+</span></summary><p>We format whatever details you send into Lambadina's standard listing style, so it reads clearly and consistently alongside every other opportunity on the platform.</p></details>
+<details><summary>How do I pay?<span>+</span></summary><p>Reach out first — we'll confirm the right plan for your opportunity and share payment details directly.</p></details>
+</div>
+</div></section>
+
+<section class="section"><div class="container">
+<div class="cta-band">
+ <div><h2>Ready to post your opportunity?</h2><p>Tell us about the role and we'll get it live.</p></div>
+ <a class="btn btn-navy" href="mailto:lambadina@example.com">Talk to Lambadina →</a>
+</div>
+</div></section>
+
+<footer><div class="container">
+<div class="footgrid"><div><img src="logo.png" alt="Lambadina" style="width:160px"><p>Light Your Next Path.</p><p>Connecting people with opportunities across Ethiopia.</p></div>
+<div><h4>Explore</h4><a href="jobs.html">Jobs</a><a href="categories.html">Categories</a><a href="why.html">Why Lambadina</a></div>
+<div><h4>For employers</h4><a href="employers.html">Post an opportunity</a><a href="mailto:lambadina@example.com">Contact</a></div>
+<div><h4>Community</h4><a href="https://t.me/lambadina_jobs">Telegram channel</a><a href="jobs.html">Latest opportunities</a></div></div>
+<div class="copyright"><span>© 2026 Lambadina. All rights reserved.</span><span>Light Your Next Path.</span></div>
+</div></footer>
+
+<script>
+fetch("https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/jobs.json")
+ .then(r=>r.json()).then(d=>{
+  const jobs=d.jobs||[];
+  document.getElementById("statJobs").textContent=jobs.length+"+";
+  document.getElementById("statCompanies").textContent=new Set(jobs.map(x=>x.company).filter(Boolean)).size+"+";
+ }).catch(()=>{});
+document.querySelectorAll(".faq summary").forEach(s=>s.addEventListener("click",e=>{
+ e.preventDefault();const d=s.parentElement;
+ document.querySelectorAll(".faq details").forEach(o=>{if(o!==d)o.removeAttribute("open")});
+ d.hasAttribute("open")?d.removeAttribute("open"):d.setAttribute("open","");
+}));
+</script>
+</body>
+</html>

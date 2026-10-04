@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>All Opportunities — Lambadina</title>
+<meta name="description" content="Browse every opportunity on Lambadina — search, filter, and find your next role.">
+<style>
+:root{
+ --bg:#030a13;--bg2:#061321;--panel:#081b2c;--panel2:#0b2237;--line:#17364e;
+ --text:#f4f8fc;--muted:#8fa7bb;--blue:#24a9ff;--blue2:#0878c9;--orange:#ff9e2c;
+ --orange2:#ffbd5a;--green:#43d49a;--danger:#ff6b75;--radius:18px;
+}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:
+radial-gradient(circle at 78% 5%,rgba(25,112,180,.24),transparent 28%),
+radial-gradient(circle at 15% 35%,rgba(255,142,36,.08),transparent 25%),var(--bg);
+color:var(--text);font:15px/1.55 Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+a{color:inherit;text-decoration:none}button,input,select{font:inherit}button{cursor:pointer}
+.container{width:min(1240px,calc(100% - 36px));margin:auto}.topline{height:3px;background:linear-gradient(90deg,var(--orange),var(--blue),var(--orange))}
+header{position:sticky;top:0;z-index:50;background:rgba(3,10,19,.82);backdrop-filter:blur(18px);border-bottom:1px solid rgba(100,160,200,.12)}
+.nav{height:76px;display:flex;align-items:center;gap:30px}.brand img{width:154px;display:block}.navlinks{display:flex;gap:25px;margin-left:auto}.navlinks a{color:#b7c8d7;font-weight:650}.navlinks a:hover,.navlinks a.active{color:#fff}.navlinks a.active:after{content:"";display:block;height:2px;background:var(--orange);margin-top:7px;border-radius:9px}
+.nav-actions{display:flex;gap:10px;align-items:center}.iconbtn{width:40px;height:40px;border-radius:12px;border:1px solid var(--line);background:var(--panel2);display:grid;place-items:center;color:#bcd0de}
+.btn{padding:12px 20px;border-radius:12px;font-weight:750;display:inline-flex;align-items:center;gap:8px;border:0}
+.ghost{background:var(--panel2);border:1px solid var(--line);color:#dfeaf2}
+.primary{background:linear-gradient(135deg,var(--orange),#ff7c19);color:#07111b;box-shadow:0 10px 24px rgba(255,145,37,.25)}
+.menu{display:none}
+.section{padding:50px 0 78px}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;background:var(--panel2);border:1px solid var(--line);padding:7px 14px;border-radius:99px;font-size:12px;font-weight:750;letter-spacing:.06em;text-transform:uppercase;color:#ffb866}
+.eyebrow:before{content:"";width:7px;height:7px;border-radius:50%;background:var(--orange)}
+h1{font-size:38px;line-height:1.1;margin:16px 0 10px;letter-spacing:-.01em}
+h2{font-size:28px;margin:0 0 10px}
+.section-sub{color:var(--muted);font-size:16px;max-width:620px}
+
+.pagehead{padding:40px 0 10px;border-bottom:1px solid var(--line)}
+.searchbox{margin-top:20px;background:rgba(7,24,38,.82);border:1px solid #23445c;border-radius:18px;padding:9px;display:grid;grid-template-columns:1.7fr .9fr auto;gap:8px;max-width:820px;box-shadow:0 25px 60px rgba(0,0,0,.35)}
+.searchbox input,.searchbox select{background:#061522;border:1px solid #173b55;color:#fff;border-radius:12px;padding:15px;outline:none}.searchbox input:focus,.searchbox select:focus{border-color:var(--blue)}
+
+.section-head{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap;margin-bottom:22px}
+.joblist{display:grid;gap:11px}
+.job-card{position:relative;display:grid;grid-template-columns:54px 1fr auto;gap:15px;align-items:center;padding:18px;border:1px solid #17384f;background:linear-gradient(135deg,rgba(9,28,44,.96),rgba(5,18,29,.96));border-radius:17px;transition:.2s}
+.job-card:hover{border-color:#2a6689;transform:translateX(2px)}
+.company-logo{width:54px;height:54px;border-radius:13px;background:#eef4f8;object-fit:contain;padding:6px}
+.job-title{font-weight:850;font-size:16px}
+.company{color:#89a2b5;font-size:13px;margin-top:2px}
+.meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:9px;color:#7893a8;font-size:12px}
+.tag{border:1px solid #23445b;padding:4px 7px;border-radius:7px;background:#081b2b}
+.job-right{text-align:right}
+.deadline{color:#92a8b8;font-size:12px;margin-bottom:9px}
+.job-right .primary{padding:9px 13px;font-size:12px}
+.empty{padding:50px;text-align:center;border:1px dashed #27475b;border-radius:18px;color:#7991a2}
+.resultcount{color:var(--muted);font-size:14px}
+
+footer{border-top:1px solid var(--line);padding:50px 0 30px;background:var(--bg2)}
+.footgrid{display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:26px}
+.footgrid h4{color:#fff;margin:0 0 10px;font-size:14px}
+.footgrid a{display:block;color:var(--muted);margin:7px 0;font-size:14px}
+.copyright{margin-top:34px;padding-top:20px;border-top:1px solid var(--line);display:flex;justify-content:space-between;color:#718ca0;font-size:13px;flex-wrap:wrap;gap:10px}
+
+@media(max-width:900px){
+ .navlinks,.nav-actions{display:none}.menu{display:block;margin-left:auto}
+ h1{font-size:30px}
+ .searchbox{grid-template-columns:1fr}
+ .job-card{grid-template-columns:44px 1fr;grid-template-rows:auto auto}
+ .job-right{grid-column:1/-1;text-align:left;display:flex;justify-content:space-between;align-items:center;margin-top:6px}
+ .footgrid{grid-template-columns:1fr 1fr}
+ .section{padding:30px 0 55px}
+ .navlinks.show{display:flex;flex-direction:column;position:absolute;top:76px;left:0;right:0;background:rgba(3,10,19,.98);backdrop-filter:blur(18px);border-bottom:1px solid var(--line);padding:10px 20px 18px;gap:2px;z-index:60}
+ .navlinks.show a{padding:13px 4px;border-bottom:1px solid rgba(255,255,255,.07)}
+ .navlinks.show a:last-child{border-bottom:0}
+ .nav-actions.show{display:flex;position:absolute;top:calc(76px + 1px);left:0;right:0;background:rgba(3,10,19,.98);padding:0 20px 18px;flex-direction:column;gap:10px;z-index:59}
+}
+</style>
+</head>
+<body>
+<div class="topline"></div>
+<header><div class="container nav">
+<a class="brand" href="index.html"><img src="logo.png" alt="Lambadina"></a>
+<nav class="navlinks"><a href="index.html#home">Home</a><a class="active" href="jobs.html">Jobs</a><a href="categories.html">Categories</a><a href="why.html">Why Lambadina</a><a href="employers.html">Employers</a></nav>
+<div class="nav-actions"><a class="btn ghost" href="https://t.me/lambadina_jobs" target="_blank" rel="noopener">Join Telegram</a><a class="btn primary" href="employers.html">For Employers</a></div>
+<button class="iconbtn menu" onclick="document.querySelector('.navlinks').classList.toggle('show');document.querySelector('.nav-actions').classList.toggle('show')">☰</button>
+</div></header>
+
+<section class="pagehead"><div class="container">
+<span class="eyebrow">Opportunity board</span>
+<h1>Every opportunity, in one place.</h1>
+<p class="section-sub">Search by role, company, or skill — or filter by location. No limit, no pagination tricks.</p>
+<div class="searchbox"><input id="searchInput" placeholder="Search jobs, companies, skills..."><select id="location"><option value="">All locations</option><option>Addis Ababa</option><option>Dire Dawa</option><option>Hawassa</option><option>Bahir Dar</option><option>Jimma</option></select><button class="primary" onclick="renderJobs()">Search Jobs →</button></div>
+</div></section>
+
+<section class="section"><div class="container">
+<div class="section-head">
+ <span class="resultcount" id="resultCount"></span>
+ <select id="sort" class="ghost" onchange="renderJobs()"><option value="latest">Latest posted</option><option value="deadline">Deadline</option></select>
+</div>
+<div class="joblist" id="jobList"></div>
+</div></section>
+
+<footer><div class="container">
+<div class="footgrid"><div><img src="logo.png" alt="Lambadina" style="width:160px"><p>Light Your Next Path.</p><p>Connecting people with opportunities across Ethiopia.</p></div>
+<div><h4>Explore</h4><a href="jobs.html">Jobs</a><a href="categories.html">Categories</a><a href="why.html">Why Lambadina</a></div>
+<div><h4>For employers</h4><a href="employers.html">Post an opportunity</a><a href="mailto:lambadina@example.com">Contact</a></div>
+<div><h4>Community</h4><a href="https://t.me/lambadina_jobs">Telegram channel</a><a href="jobs.html">Latest opportunities</a></div></div>
+<div class="copyright"><span>© 2026 Lambadina. All rights reserved.</span><span>Light Your Next Path.</span></div>
+</div></footer>
+
+<script>
+let DATA=[];
+async function init(){
+ try{
+  const r=await fetch("https://raw.githubusercontent.com/nebilnur18-creator/lambadina-data/main/jobs.json");
+  const j=await r.json();DATA=j.jobs||[];
+  const params=new URLSearchParams(location.search);
+  const cat=params.get("cat");
+  if(cat) document.getElementById("searchInput").value=cat;
+  renderJobs();
+ }catch(e){document.getElementById("jobList").innerHTML='<div class="empty">Vacancy data could not be loaded.</div>';}
+}
+function titleOf(j){
+ if(j.positions&&j.positions[0]&&j.positions[0].length<=90) return j.positions[0];
+ const firstLine=(j.text||"").split("\n").find(x=>x.trim());
+ if(firstLine&&firstLine.trim().length<=90) return firstLine.trim();
+ return (j.company?j.company+" — Opportunity":"Opportunity");
+}
+function esc(s){return String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
+function renderJobs(){
+ let q=document.getElementById("searchInput").value.toLowerCase().trim(), loc=document.getElementById("location").value, sort=document.getElementById("sort").value;
+ let rows=DATA.filter(j=>{let hay=[j.company,j.about,(j.positions||[]).join(" "),(j.category||[]).join(" "),j.text].join(" ").toLowerCase();let ok=!q||hay.includes(q);let okLoc=!loc||hay.includes(loc.toLowerCase());return ok&&okLoc});
+ rows.sort((a,b)=>sort==="deadline"?String(a.deadline||"zzzz").localeCompare(String(b.deadline||"zzzz")):String(b.posted||"").localeCompare(String(a.posted||"")));
+ document.getElementById("resultCount").textContent=rows.length+(rows.length===1?" opportunity found":" opportunities found");
+ document.getElementById("jobList").innerHTML=rows.length?rows.map(j=>{let t=titleOf(j), c=(j.category||["General"])[0];return `<article class="job-card"><img class="company-logo" src="${esc(j.image||'logo.png')}" alt="${esc(j.company||'Lambadina')}" loading="lazy" onerror="this.onerror=null;this.src='logo.png'"><div><a class="job-title" href="job.html?id=${encodeURIComponent(j.id)}">${esc(t)}</a><div class="company">${esc(j.company)}</div><div class="meta"><span class="tag">⌖ ${esc((j.text||"Addis Ababa").match(/(?:Location:|📍 Location:|📍)\s*([^\n]+)/i)?.[1]||"Ethiopia")}</span><span class="tag">${esc(c)}</span><span class="tag">Full-time / vacancy</span></div></div><div class="job-right"><div class="deadline">Deadline<br><b>${esc(j.deadline||"Not specified")}</b></div><a class="primary" href="job.html?id=${encodeURIComponent(j.id)}">View Details →</a></div></article>`}).join(""):'<div class="empty">No opportunities match your search.</div>';
+}
+document.getElementById("searchInput").addEventListener("keydown",e=>{if(e.key==="Enter")renderJobs()});
+init();
+</script>
+</body>
+</html>

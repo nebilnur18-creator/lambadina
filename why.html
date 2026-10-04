@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Why Lambadina</title>
+<meta name="description" content="Why Lambadina exists and how it makes career discovery in Ethiopia clearer.">
+<style>
+:root{
+ --bg:#030a13;--bg2:#061321;--panel:#081b2c;--panel2:#0b2237;--line:#17364e;
+ --text:#f4f8fc;--muted:#8fa7bb;--blue:#24a9ff;--blue2:#0878c9;--orange:#ff9e2c;
+ --orange2:#ffbd5a;--green:#43d49a;--danger:#ff6b75;--radius:18px;
+}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:
+radial-gradient(circle at 78% 5%,rgba(25,112,180,.24),transparent 28%),
+radial-gradient(circle at 15% 35%,rgba(255,142,36,.08),transparent 25%),var(--bg);
+color:var(--text);font:15px/1.55 Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+a{color:inherit;text-decoration:none}button,input,select{font:inherit}button{cursor:pointer}
+.container{width:min(1240px,calc(100% - 36px));margin:auto}.topline{height:3px;background:linear-gradient(90deg,var(--orange),var(--blue),var(--orange))}
+header{position:sticky;top:0;z-index:50;background:rgba(3,10,19,.82);backdrop-filter:blur(18px);border-bottom:1px solid rgba(100,160,200,.12)}
+.nav{height:76px;display:flex;align-items:center;gap:30px}.brand img{width:154px;display:block}.navlinks{display:flex;gap:25px;margin-left:auto}.navlinks a{color:#b7c8d7;font-weight:650}.navlinks a:hover,.navlinks a.active{color:#fff}.navlinks a.active:after{content:"";display:block;height:2px;background:var(--orange);margin-top:7px;border-radius:9px}
+.nav-actions{display:flex;gap:10px;align-items:center}.iconbtn{width:40px;height:40px;border-radius:12px;border:1px solid var(--line);background:var(--panel2);display:grid;place-items:center;color:#bcd0de}
+.btn{padding:12px 20px;border-radius:12px;font-weight:750;display:inline-flex;align-items:center;gap:8px;border:0}
+.ghost{background:var(--panel2);border:1px solid var(--line);color:#dfeaf2}
+.primary{background:linear-gradient(135deg,var(--orange),#ff7c19);color:#07111b;box-shadow:0 10px 24px rgba(255,145,37,.25)}
+.menu{display:none}
+.section{padding:70px 0}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;background:var(--panel2);border:1px solid var(--line);padding:7px 14px;border-radius:99px;font-size:12px;font-weight:750;letter-spacing:.06em;text-transform:uppercase;color:#ffb866}
+.eyebrow:before{content:"";width:7px;height:7px;border-radius:50%;background:var(--orange)}
+h1{font-size:40px;line-height:1.1;margin:16px 0 14px;letter-spacing:-.01em}
+h2{font-size:30px;margin:0 0 10px}
+.section-sub{color:var(--muted);font-size:16px;max-width:640px}
+.pagehead{padding:60px 0 50px;border-bottom:1px solid var(--line);position:relative;overflow:hidden}
+.pagehead:before{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at 75% 20%,rgba(255,148,39,.14),transparent 30%)}
+.pagehead .inner{position:relative;max-width:680px}
+
+.vision-banner{padding:0}
+.vision-banner img{display:block;width:100%;height:auto}
+
+.cards3{display:grid;grid-template-columns:repeat(3,1fr);gap:15px;margin-top:30px}
+.info-card{border:1px solid #183c55;border-radius:18px;padding:25px;background:#071a2a}
+.num{font-size:38px;font-weight:900;color:var(--orange)}
+.info-card h3{margin:8px 0}
+.info-card p{color:#8199aa}
+
+.check-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:30px}
+.check{display:flex;gap:12px;color:#a5baca;border:1px solid var(--line);background:var(--panel);padding:18px;border-radius:14px}
+.check b{color:var(--green);font-size:18px}
+
+.cta-band{border:1px solid var(--line);border-radius:23px;padding:45px;background:linear-gradient(120deg,var(--orange) 0%,var(--orange2) 55%,#ffd684 100%);display:flex;justify-content:space-between;gap:25px;align-items:center;flex-wrap:wrap}
+.cta-band h2{color:#1a1004}
+.cta-band p{color:#5c3a06;margin:0;max-width:460px}
+.cta-band .btn-navy{background:linear-gradient(135deg,#0b2237,#050d16);color:#ffd8a0;border:0;font-weight:800}
+
+footer{border-top:1px solid var(--line);padding:50px 0 30px;background:var(--bg2)}
+.footgrid{display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:26px}
+.footgrid h4{color:#fff;margin:0 0 10px;font-size:14px}
+.footgrid a{display:block;color:var(--muted);margin:7px 0;font-size:14px}
+.copyright{margin-top:34px;padding-top:20px;border-top:1px solid var(--line);display:flex;justify-content:space-between;color:#718ca0;font-size:13px;flex-wrap:wrap;gap:10px}
+
+@media(max-width:900px){
+ .navlinks,.nav-actions{display:none}.menu{display:block;margin-left:auto}
+ h1{font-size:30px}
+ .cards3,.check-grid{grid-template-columns:1fr}
+ .cta-band{display:block;text-align:left}
+ .footgrid{grid-template-columns:1fr 1fr}
+ .section{padding:40px 0}
+ .navlinks.show{display:flex;flex-direction:column;position:absolute;top:76px;left:0;right:0;background:rgba(3,10,19,.98);backdrop-filter:blur(18px);border-bottom:1px solid var(--line);padding:10px 20px 18px;gap:2px;z-index:60}
+ .navlinks.show a{padding:13px 4px;border-bottom:1px solid rgba(255,255,255,.07)}
+ .navlinks.show a:last-child{border-bottom:0}
+ .nav-actions.show{display:flex;position:absolute;top:calc(76px + 1px);left:0;right:0;background:rgba(3,10,19,.98);padding:0 20px 18px;flex-direction:column;gap:10px;z-index:59}
+}
+</style>
+</head>
+<body>
+<div class="topline"></div>
+<header><div class="container nav">
+<a class="brand" href="index.html"><img src="logo.png" alt="Lambadina"></a>
+<nav class="navlinks"><a href="index.html#home">Home</a><a href="jobs.html">Jobs</a><a href="categories.html">Categories</a><a class="active" href="why.html">Why Lambadina</a><a href="employers.html">Employers</a></nav>
+<div class="nav-actions"><a class="btn ghost" href="https://t.me/lambadina_jobs" target="_blank" rel="noopener">Join Telegram</a><a class="btn primary" href="employers.html">For Employers</a></div>
+<button class="iconbtn menu" onclick="document.querySelector('.navlinks').classList.toggle('show');document.querySelector('.nav-actions').classList.toggle('show')">☰</button>
+</div></header>
+
+<section class="pagehead"><div class="container inner">
+<span class="eyebrow">Our vision</span>
+<h1>Guiding every job seeker toward their next opportunity.</h1>
+<p class="section-sub">Lambadina exists to make career discovery in Ethiopia clearer — one lantern-lit path at a time. Scattered channels, repeated posts, and unclear application steps make the search harder than it needs to be. We built a single, structured place instead.</p>
+</div></section>
+
+<section class="vision-banner"><img src="vision-banner.png" alt="Lambadina — Guiding every job seeker toward their next opportunity"></section>
+
+<section class="section"><div class="container">
+<span class="eyebrow">Built for the journey</span>
+<h2 style="margin-top:14px">More than a vacancy list</h2>
+<p class="section-sub">A focused experience for discovering and acting on career opportunities.</p>
+<div class="cards3">
+ <div class="info-card"><div class="num">01</div><h3>Discover</h3><p>Search by role, category, location and organization without digging through scattered posts.</p></div>
+ <div class="info-card"><div class="num">02</div><h3>Understand</h3><p>Read the position, requirements, deadline and application route in a structured format.</p></div>
+ <div class="info-card"><div class="num">03</div><h3>Move forward</h3><p>Open the original application route and take the next step when an opportunity fits.</p></div>
+</div>
+</div></section>
+
+<section class="section" style="background:var(--bg2);border-top:1px solid var(--line);border-bottom:1px solid var(--line)"><div class="container">
+<span class="eyebrow">The Lambadina approach</span>
+<h2 style="margin-top:14px">A clearer way to find work</h2>
+<div class="check-grid">
+ <div class="check"><b>✓</b><span>Search across multiple career areas from one place.</span></div>
+ <div class="check"><b>✓</b><span>See application information before you leave the platform.</span></div>
+ <div class="check"><b>✓</b><span>Follow opportunities from entry level to experienced roles.</span></div>
+ <div class="check"><b>✓</b><span>Use our Telegram channel for fresh vacancy alerts.</span></div>
+</div>
+</div></section>
+
+<section class="section"><div class="container">
+<div class="cta-band">
+ <div><h2>Ready to find your next path?</h2><p>Browse every current opportunity, or join our Telegram channel for daily alerts.</p></div>
+ <a class="btn btn-navy" href="jobs.html">Explore Opportunities →</a>
+</div>
+</div></section>
+
+<footer><div class="container">
+<div class="footgrid"><div><img src="logo.png" alt="Lambadina" style="width:160px"><p>Light Your Next Path.</p><p>Connecting people with opportunities across Ethiopia.</p></div>
+<div><h4>Explore</h4><a href="jobs.html">Jobs</a><a href="categories.html">Categories</a><a href="why.html">Why Lambadina</a></div>
+<div><h4>For employers</h4><a href="employers.html">Post an opportunity</a><a href="mailto:lambadina@example.com">Contact</a></div>
+<div><h4>Community</h4><a href="https://t.me/lambadina_jobs">Telegram channel</a><a href="jobs.html">Latest opportunities</a></div></div>
+<div class="copyright"><span>© 2026 Lambadina. All rights reserved.</span><span>Light Your Next Path.</span></div>
+</div></footer>
+</body>
+</html>
