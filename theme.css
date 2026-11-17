@@ -1,0 +1,129 @@
+/* Lambadina light theme — loaded AFTER each page's own <style>, so it wins.
+   Add   <link rel="stylesheet" href="theme.css">   before </head> on EVERY page. */
+:root{
+ --bg:#ffffff;--bg2:#f6f8ff;--panel:#ffffff;--panel2:#f4f7ff;--line:#e3e8f4;
+ --text:#14213d;--muted:#5b6b86;--blue:#2f7df6;--blue2:#1f5fd0;--orange:#ff8a1f;--orange2:#ffb347;
+ --green:#12a672;--danger:#e5484d;--pink:#ff4f9a;--violet:#7a5cff;
+ --grad:linear-gradient(135deg,#ff8a1f 0%,#ff4f9a 52%,#7a5cff 100%);
+ --grad-cool:linear-gradient(120deg,#2f7df6 0%,#7a5cff 55%,#ff4f9a 100%);
+}
+body{
+ background:
+  radial-gradient(circle at 88% -4%,rgba(122,92,255,.20),transparent 34%),
+  radial-gradient(circle at 4% 18%,rgba(47,125,246,.17),transparent 32%),
+  radial-gradient(circle at 78% 58%,rgba(255,138,31,.13),transparent 30%),
+  radial-gradient(circle at 8% 92%,rgba(255,79,154,.13),transparent 30%),
+  #ffffff;
+ color:var(--text);
+}
+.topline,.top{background:linear-gradient(90deg,#ff8a1f,#ff4f9a,#7a5cff,#2f7df6,#ff8a1f)}
+
+/* ---------- header + logo ---------- */
+header{background:rgba(255,255,255,.88);border-bottom:1px solid var(--line);box-shadow:0 4px 24px rgba(60,80,140,.06)}
+header img[src$="logo.png"],footer img[src$="logo.png"]{
+ height:42px;width:auto!important;max-width:none;object-fit:contain;display:block;
+ background:#0b1f33;border-radius:12px;padding:6px 12px;box-sizing:content-box}
+footer img[src$="logo.png"]{height:46px}
+.navlinks a{color:#41526f}.navlinks a:hover,.navlinks a.active{color:#14213d}
+.navlinks a.active:after{background:var(--grad)}
+.iconbtn,.ghost,.btn{background:#fff;color:#14213d;border:1px solid var(--line)}
+.iconbtn:hover,.ghost:hover,.btn:hover{border-color:#b9c8ee}
+.primary{background:var(--grad);color:#fff!important;border:0;box-shadow:0 10px 26px rgba(255,79,154,.25)}
+.blue{background:var(--grad-cool);color:#fff}
+.navlinks.show,.nav-actions.show{background:rgba(255,255,255,.98)}
+.navlinks.show a{border-bottom:1px solid #edf0f8}
+
+/* ---------- hero ---------- */
+.top-banner{background:#fff}
+.hero{border-bottom:1px solid var(--line)}
+.hero:before{background:
+ radial-gradient(ellipse at 80% 30%,rgba(122,92,255,.10),transparent 42%),
+ radial-gradient(ellipse at 15% 85%,rgba(255,138,31,.10),transparent 40%),
+ radial-gradient(ellipse at 45% 0,rgba(47,125,246,.08),transparent 45%)}
+.kicker{background:#fff;border:1px solid var(--line);color:#41526f}
+.kicker i{background:var(--pink);box-shadow:0 0 12px var(--pink)}
+h1{color:#14213d}
+.gradient{background:linear-gradient(100deg,#2f7df6 5%,#7a5cff 40%,#ff4f9a 72%,#ff8a1f 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p{color:#4a5b78}
+.searchbox{background:rgba(255,255,255,.92);border:1px solid var(--line);box-shadow:0 22px 50px rgba(70,90,160,.16)}
+.searchbox input,.searchbox select{background:#fff;border:1px solid #dbe3f3;color:#14213d}
+.searchbox input:focus,.searchbox select:focus{border-color:var(--violet)}
+.pill,.tag,.chip{background:#fff;border:1px solid #dbe3f3;color:#41526f}
+.stats-grid{background:rgba(255,255,255,.94);border:1px solid var(--line);box-shadow:0 18px 44px rgba(70,90,160,.13)}
+.stat{border-right:1px solid var(--line)}
+.stat strong{background:var(--grad-cool);-webkit-background-clip:text;background-clip:text;color:transparent}
+.stat span{color:#5b6b86}
+
+/* ---------- sections ---------- */
+.eyebrow{color:#d9540a}
+.section h2{color:#14213d}.section-sub{color:#5b6b86}
+.link{color:#2563d8}
+.cat{background:#fff;border:1px solid var(--line);box-shadow:0 6px 18px rgba(70,90,160,.07)}
+.cat:hover{border-color:#b9c8ee;box-shadow:0 14px 30px rgba(70,90,160,.14)}
+.cat:after{background:rgba(122,92,255,.09)}
+.cat b{color:#14213d}.cat small{color:#5b6b86}
+.caticon{color:var(--violet)}
+.cat:nth-child(5n+1){background:linear-gradient(145deg,#fff,#eaf2ff)}.cat:nth-child(5n+1) .caticon{color:#2f7df6}
+.cat:nth-child(5n+2){background:linear-gradient(145deg,#fff,#f1ebff)}.cat:nth-child(5n+2) .caticon{color:#7a5cff}
+.cat:nth-child(5n+3){background:linear-gradient(145deg,#fff,#ffe9f3)}.cat:nth-child(5n+3) .caticon{color:#ff4f9a}
+.cat:nth-child(5n+4){background:linear-gradient(145deg,#fff,#fff0df)}.cat:nth-child(5n+4) .caticon{color:#ff8a1f}
+.cat:nth-child(5n+5){background:linear-gradient(145deg,#fff,#e6f8f0)}.cat:nth-child(5n+5) .caticon{color:#12a672}
+
+.job-card{background:#fff;border:1px solid var(--line);box-shadow:0 6px 18px rgba(70,90,160,.06)}
+.job-card:hover{border-color:#b9c8ee;box-shadow:0 14px 30px rgba(70,90,160,.13)}
+.company-logo{background:#f2f5fb;border:1px solid var(--line)}
+.job-title{color:#14213d}.company{color:#5b6b86}.meta{color:#5b6b86}.deadline{color:#5b6b86}
+.deadline b{color:#14213d}
+.side-card{background:linear-gradient(145deg,#ffffff,#f1edff);border:1px solid var(--line);box-shadow:0 14px 34px rgba(100,90,200,.12)}
+.check{color:#41526f}.check b{color:var(--green)}
+
+.feature{background:linear-gradient(110deg,#ffffff,#f1edff);border:1px solid var(--line);box-shadow:0 14px 34px rgba(100,90,200,.1)}
+.feature-visual{background:radial-gradient(circle at 50% 40%,rgba(255,138,31,.38),transparent 30%),linear-gradient(135deg,#e3eeff,#f1e6ff 55%,#ffe6ef)}
+.path{border-top-color:#ff4f9a;filter:drop-shadow(0 0 10px rgba(255,79,154,.5))}
+.person{background:#14213d;box-shadow:none}.person:before{background:#14213d}
+.portal{border-color:#7a5cff;box-shadow:0 0 50px rgba(122,92,255,.25) inset}
+.info-card{background:#fff;border:1px solid var(--line);box-shadow:0 6px 18px rgba(70,90,160,.06)}
+.info-card p{color:#5b6b86}.info-card h3{color:#14213d}
+.num{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.faq{border-top:1px solid #dbe3f3}.faq details{border-bottom:1px solid #dbe3f3}.faq p{color:#5b6b86}
+.newsletter{background:#fff;border:1px solid var(--line);color:#14213d}.newsform input{background:#fff;border:1px solid #dbe3f3;color:#14213d}
+.empty{background:#fff;border:1px dashed #c6d2ec;color:#5b6b86}
+
+/* the "gold" bands become soft pastel rainbows */
+.section-gold{background:linear-gradient(120deg,#fff1de 0%,#ffe7f1 38%,#ece6ff 72%,#e3f0ff 100%)}
+.section-gold .eyebrow{color:#d9540a}
+.section-gold h2{color:#14213d}
+.section-gold .section-sub{color:#4a5b78}
+.section-gold .link{color:#2563d8}
+.section-gold .cat{background:#fff;border-color:rgba(122,92,255,.14)}
+.section-gold .cat:after{background:rgba(255,79,154,.08)}
+.section-gold .cat b{color:#14213d}.section-gold .cat small{color:#5b6b86}
+.section-gold .info-card{background:#fff;border-color:rgba(122,92,255,.14)}
+.section-gold .info-card h3{color:#14213d}.section-gold .info-card p{color:#5b6b86}
+.section-gold .num{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.section-gold .faq details{border-color:rgba(122,92,255,.2)}
+.section-gold .faq summary{color:#14213d}.section-gold .faq p{color:#4a5b78}
+.section-gold .newsletter{background:var(--grad-cool);border:0;box-shadow:0 24px 60px rgba(122,92,255,.32);color:#fff}
+.section-gold .newsletter h2{color:#fff}
+.section-gold .newsletter .eyebrow{color:#ffe2b8}
+.section-gold .newsletter .section-sub{color:rgba(255,255,255,.92)}
+.section-gold .newsletter a:not(.primary){color:#fff!important}
+.section-gold .newsletter .primary{background:#fff;color:#14213d!important;box-shadow:0 10px 28px rgba(0,0,0,.18)}
+
+/* ---------- footer ---------- */
+footer{background:#f4f6fd;border-top:1px solid var(--line);color:#5b6b86}
+.footgrid h4{color:#14213d}.footgrid a,.footgrid p{color:#5b6b86}.footgrid a:hover{color:#14213d}
+.copyright{border-top:1px solid var(--line);color:#6b7a94}
+
+/* ---------- job detail page (job.html) ---------- */
+.crumb{color:#6b7a94}.back{color:#2563d8}
+.hero h1{color:#14213d}
+.badge{color:#b45309;background:#fff4e5;border:1px solid #ffd6a0}
+.company{color:#41526f}
+.company img{background:#f2f5fb;border:1px solid var(--line)}
+.applybox{background:linear-gradient(145deg,#ffffff,#f1edff);border:1px solid var(--line);box-shadow:0 22px 50px rgba(100,90,200,.2)}
+.applybox p{color:#5b6b86!important}
+.card{background:#fff;border:1px solid var(--line);box-shadow:0 6px 18px rgba(70,90,160,.06)}
+.text{color:#33425e}
+.row{border-bottom:1px solid #edf0f8}.row small{color:#6b7a94}
+.notice{background:#f6f8ff;border:1px solid var(--line);color:#41526f}
